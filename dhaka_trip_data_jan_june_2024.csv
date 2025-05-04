@@ -1,0 +1,1001 @@
+trip_id,pickup_location,drop_location,trip_status,vehicle_type,driver_rating,promo_code_used,wait_time_before_pickup,distance_travelled,fare_amount,passenger_rating,total_passenger,payment_method,duration_time,date,customer_id,passenger_type
+TRIP100000,Banani,Gulshan,Cancelled,Car,3.8,No,7,19.3,634.94,4.6,1,Cash,83,2024-03-11,CUST1587,Repeated
+TRIP100001,Motijheel,Mohammadpur,No-show,Bike,4.5,No,1,4.54,95.85,4.5,2,Mobile Payment,39,2024-01-30,CUST1008,Repeated
+TRIP100002,Motijheel,Uttara,Completed,Car,3.2,No,12,4.89,854.88,3.8,1,Card,39,2024-05-28,CUST1224,Repeated
+TRIP100003,Gulshan,Farmgate,Completed,CNG,4.4,No,12,22.45,594.75,3.9,1,Mobile Payment,61,2024-03-16,CUST1194,Repeated
+TRIP100004,Mirpur,Mirpur,Completed,Bike,3.8,Yes,8,23.29,336.16,4.3,2,Cash,87,2024-02-08,CUST1588,Repeated
+TRIP100005,Banani,Gulshan,Completed,Bike,3.5,Yes,11,4.74,451.16,3.1,1,Card,71,2024-01-25,CUST1009,Repeated
+TRIP100006,Dhanmondi,Farmgate,Cancelled,Car,3.8,No,2,15.74,239.03,4.6,1,Cash,51,2024-01-18,CUST1007,Repeated
+TRIP100007,Farmgate,Motijheel,Completed,Car,3.8,No,8,4.21,66.89,3.5,4,Cash,35,2024-05-06,CUST1353,New
+TRIP100008,Gulshan,Mirpur,Completed,Car,4.5,No,17,20.27,693.9,4.4,1,Card,85,2024-05-25,CUST1064,Repeated
+TRIP100009,Mirpur,Uttara,Completed,Microbus,3.9,No,13,4.49,74.11,4.1,3,Card,46,2024-03-17,CUST1440,Repeated
+TRIP100010,Gulshan,Banani,Completed,Bike,4.3,No,11,11.39,277.37,4.4,1,Cash,60,2024-03-21,CUST1122,Repeated
+TRIP100011,Motijheel,Mirpur,Completed,CNG,3.5,Yes,1,24.58,902.73,4.0,2,Card,84,2024-05-09,CUST1452,Repeated
+TRIP100012,Uttara,Motijheel,Completed,Car,3.0,Yes,5,4.44,796.79,3.8,1,Card,41,2024-05-04,CUST1189,Repeated
+TRIP100013,Farmgate,Uttara,Completed,Bike,3.9,No,5,15.96,154.88,3.7,1,Card,20,2024-06-11,CUST1040,Repeated
+TRIP100014,Dhanmondi,Gulshan,Completed,CNG,4.0,No,14,9.34,403.82,4.9,2,Cash,67,2024-02-06,CUST1332,Repeated
+TRIP100015,Uttara,Motijheel,Completed,CNG,3.7,Yes,3,17.26,611.8,3.6,2,Mobile Payment,75,2024-03-10,CUST1521,Repeated
+TRIP100016,Bashundhara,Gulshan,Completed,Bike,3.2,Yes,5,18.68,587.59,3.2,1,Card,5,2024-06-11,CUST1619,Repeated
+TRIP100017,Bashundhara,Bashundhara,Cancelled,Bike,5.0,Yes,6,14.28,441.56,3.4,4,Card,84,2024-04-03,CUST1617,Repeated
+TRIP100018,Dhanmondi,Uttara,Completed,CNG,3.4,No,19,6.71,458.1,4.6,1,Card,9,2024-04-20,CUST1064,Repeated
+TRIP100019,Motijheel,Uttara,Completed,Bike,4.9,Yes,17,12.46,240.1,3.7,1,Card,64,2024-01-08,CUST1319,Repeated
+TRIP100020,Gulshan,Mirpur,Completed,Car,3.9,No,11,22.51,982.63,4.7,1,Mobile Payment,18,2024-02-29,CUST1157,Repeated
+TRIP100021,Banani,Bashundhara,Completed,Car,3.3,No,3,2.07,292.24,4.4,1,Card,13,2024-05-22,CUST1127,New
+TRIP100022,Bashundhara,Gulshan,Completed,CNG,3.5,No,7,9.16,892.11,3.3,3,Cash,5,2024-01-06,CUST1631,Repeated
+TRIP100023,Uttara,Mirpur,Cancelled,Microbus,4.3,Yes,9,21.34,681.79,4.4,1,Mobile Payment,51,2024-05-01,CUST1624,Repeated
+TRIP100024,Banani,Uttara,Completed,Microbus,5.0,No,18,4.06,866.91,3.8,4,Mobile Payment,57,2024-01-20,CUST1385,New
+TRIP100025,Uttara,Motijheel,Completed,Bike,3.8,No,15,22.97,625.63,3.7,1,Card,57,2024-06-30,CUST1035,Repeated
+TRIP100026,Motijheel,Bashundhara,Cancelled,Bike,3.5,No,14,23.55,793.25,4.5,2,Card,63,2024-06-29,CUST1117,Repeated
+TRIP100027,Farmgate,Gulshan,Completed,Microbus,3.4,No,4,18.73,569.83,4.1,1,Card,45,2024-06-30,CUST1396,Repeated
+TRIP100028,Motijheel,Mohammadpur,Completed,Microbus,4.0,No,13,24.26,793.85,4.8,1,Mobile Payment,9,2024-03-24,CUST1421,Repeated
+TRIP100029,Banani,Mohammadpur,Completed,Car,4.6,No,6,14.13,616.92,3.1,1,Card,69,2024-05-24,CUST1233,New
+TRIP100030,Gulshan,Farmgate,Cancelled,Bike,4.4,No,5,17.44,909.01,3.6,1,Cash,14,2024-03-01,CUST1557,New
+TRIP100031,Uttara,Gulshan,Completed,Bike,3.6,No,15,4.17,182.0,3.4,1,Cash,10,2024-04-16,CUST1219,Repeated
+TRIP100032,Mohammadpur,Farmgate,Completed,Microbus,3.9,No,9,21.01,210.29,3.8,1,Mobile Payment,37,2024-02-07,CUST1183,Repeated
+TRIP100033,Mohammadpur,Gulshan,Completed,Car,3.9,Yes,17,5.39,108.41,4.0,3,Cash,73,2024-03-20,CUST1002,Repeated
+TRIP100034,Mohammadpur,Motijheel,Completed,Bike,3.7,No,8,4.45,528.4,3.0,2,Mobile Payment,22,2024-01-25,CUST1123,Repeated
+TRIP100035,Farmgate,Dhanmondi,Completed,Car,4.1,No,19,22.14,591.42,4.2,2,Mobile Payment,24,2024-01-17,CUST1604,Repeated
+TRIP100036,Motijheel,Mirpur,Completed,Bike,3.9,No,6,12.64,626.49,3.3,3,Card,84,2024-03-09,CUST1008,Repeated
+TRIP100037,Mirpur,Bashundhara,Completed,Car,3.6,Yes,8,11.9,506.72,4.5,1,Mobile Payment,77,2024-02-01,CUST1279,Repeated
+TRIP100038,Mohammadpur,Banani,Completed,Car,4.7,Yes,5,8.38,499.34,3.7,1,Mobile Payment,28,2024-05-16,CUST1693,Repeated
+TRIP100039,Banani,Motijheel,Completed,Car,4.6,Yes,15,14.73,636.0,3.5,1,Mobile Payment,42,2024-02-01,CUST1340,New
+TRIP100040,Mohammadpur,Banani,Completed,Microbus,4.1,No,17,2.55,154.48,4.0,1,Card,7,2024-05-16,CUST1562,Repeated
+TRIP100041,Mohammadpur,Banani,Completed,Car,3.5,No,8,22.88,870.09,4.9,1,Card,61,2024-06-25,CUST1205,Repeated
+TRIP100042,Mohammadpur,Gulshan,Completed,Microbus,4.8,No,9,19.9,985.51,3.1,1,Mobile Payment,37,2024-02-24,CUST1121,Repeated
+TRIP100043,Uttara,Uttara,Cancelled,Car,3.6,No,18,18.96,760.17,3.4,3,Cash,24,2024-05-07,CUST1559,Repeated
+TRIP100044,Dhanmondi,Gulshan,Completed,CNG,3.9,No,17,5.95,937.14,4.8,1,Cash,46,2024-02-25,CUST1483,Repeated
+TRIP100045,Farmgate,Gulshan,Completed,Car,3.2,No,10,3.68,718.49,3.5,2,Mobile Payment,76,2024-05-31,CUST1654,Repeated
+TRIP100046,Mohammadpur,Bashundhara,Completed,Bike,3.4,No,19,1.37,886.57,3.3,2,Mobile Payment,71,2024-02-29,CUST1378,Repeated
+TRIP100047,Farmgate,Bashundhara,Completed,Car,4.6,No,17,10.11,960.69,5.0,2,Card,54,2024-06-25,CUST1150,New
+TRIP100048,Mirpur,Bashundhara,Cancelled,CNG,3.9,No,4,9.97,733.58,3.1,1,Card,18,2024-04-22,CUST1625,Repeated
+TRIP100049,Motijheel,Mohammadpur,Completed,CNG,4.6,No,1,2.12,891.38,4.9,4,Card,48,2024-06-13,CUST1521,Repeated
+TRIP100050,Farmgate,Mohammadpur,Completed,Bike,4.0,Yes,12,3.84,938.29,3.5,2,Mobile Payment,81,2024-05-24,CUST1677,New
+TRIP100051,Mirpur,Mirpur,No-show,Microbus,4.9,Yes,12,14.65,61.61,3.9,2,Cash,23,2024-01-09,CUST1668,New
+TRIP100052,Banani,Gulshan,No-show,Bike,4.8,No,6,9.05,565.76,4.3,2,Mobile Payment,18,2024-03-26,CUST1632,New
+TRIP100053,Gulshan,Farmgate,Completed,Microbus,4.8,No,5,4.82,937.63,3.8,3,Card,34,2024-06-29,CUST1197,New
+TRIP100054,Bashundhara,Uttara,Completed,CNG,3.0,Yes,17,16.86,104.44,4.9,1,Mobile Payment,62,2024-04-29,CUST1263,Repeated
+TRIP100055,Mirpur,Motijheel,Completed,Bike,3.5,No,6,11.89,690.42,4.5,1,Mobile Payment,12,2024-04-27,CUST1627,Repeated
+TRIP100056,Dhanmondi,Farmgate,Completed,Microbus,4.3,No,9,8.83,317.08,3.9,2,Mobile Payment,77,2024-03-30,CUST1323,Repeated
+TRIP100057,Gulshan,Motijheel,Completed,Car,3.1,Yes,8,20.35,479.79,5.0,1,Mobile Payment,10,2024-03-26,CUST1458,New
+TRIP100058,Motijheel,Gulshan,Cancelled,CNG,3.7,No,6,18.58,911.14,4.4,2,Card,29,2024-05-02,CUST1475,Repeated
+TRIP100059,Mirpur,Dhanmondi,Completed,Bike,3.6,Yes,10,11.41,169.05,4.2,1,Cash,44,2024-06-22,CUST1238,New
+TRIP100060,Banani,Farmgate,Completed,Microbus,4.8,Yes,11,19.81,317.56,4.9,1,Mobile Payment,15,2024-01-01,CUST1244,Repeated
+TRIP100061,Farmgate,Uttara,Completed,Microbus,4.5,Yes,10,3.03,446.4,4.0,3,Card,32,2024-04-29,CUST1564,Repeated
+TRIP100062,Banani,Mohammadpur,Cancelled,Car,3.6,No,17,18.64,684.84,4.1,1,Cash,82,2024-04-23,CUST1304,Repeated
+TRIP100063,Banani,Banani,Completed,CNG,4.1,Yes,9,18.59,672.61,4.2,1,Cash,37,2024-06-13,CUST1331,Repeated
+TRIP100064,Bashundhara,Gulshan,Completed,Car,4.4,No,6,2.36,258.12,4.8,3,Mobile Payment,80,2024-06-15,CUST1354,Repeated
+TRIP100065,Mirpur,Motijheel,Completed,Bike,3.1,No,19,16.7,990.57,3.0,1,Card,16,2024-04-11,CUST1370,Repeated
+TRIP100066,Banani,Motijheel,Completed,CNG,3.9,No,7,2.22,862.46,4.9,2,Cash,62,2024-02-03,CUST1573,Repeated
+TRIP100067,Farmgate,Bashundhara,Completed,Microbus,3.5,No,11,4.16,965.59,3.7,1,Card,88,2024-03-16,CUST1597,New
+TRIP100068,Gulshan,Mohammadpur,Completed,Car,3.6,Yes,19,4.71,124.05,3.2,1,Mobile Payment,10,2024-04-25,CUST1017,Repeated
+TRIP100069,Dhanmondi,Motijheel,Completed,Car,4.7,Yes,6,24.09,995.18,3.8,3,Mobile Payment,34,2024-02-11,CUST1508,Repeated
+TRIP100070,Mirpur,Bashundhara,Completed,Microbus,3.1,Yes,15,6.47,420.93,3.7,1,Cash,41,2024-02-02,CUST1105,Repeated
+TRIP100071,Motijheel,Uttara,Completed,Bike,3.9,No,14,3.75,105.12,3.2,1,Mobile Payment,9,2024-06-05,CUST1025,Repeated
+TRIP100072,Dhanmondi,Uttara,Completed,CNG,5.0,Yes,17,7.82,632.55,4.4,2,Cash,88,2024-04-30,CUST1314,Repeated
+TRIP100073,Banani,Bashundhara,Completed,Bike,4.8,Yes,15,2.58,586.75,3.7,2,Cash,69,2024-05-01,CUST1108,Repeated
+TRIP100074,Mohammadpur,Gulshan,Completed,Bike,4.6,No,18,9.08,333.43,3.5,1,Mobile Payment,54,2024-06-15,CUST1460,Repeated
+TRIP100075,Farmgate,Mirpur,Completed,Car,3.1,No,12,3.21,337.02,3.5,1,Mobile Payment,16,2024-01-21,CUST1422,Repeated
+TRIP100076,Farmgate,Dhanmondi,Cancelled,CNG,4.2,No,6,24.13,129.06,3.9,1,Card,81,2024-04-28,CUST1605,Repeated
+TRIP100077,Bashundhara,Mirpur,Completed,Car,4.9,No,5,15.01,248.1,4.2,1,Card,80,2024-06-01,CUST1608,Repeated
+TRIP100078,Farmgate,Banani,Completed,Microbus,4.5,Yes,14,3.51,67.8,4.8,1,Cash,66,2024-06-09,CUST1275,Repeated
+TRIP100079,Banani,Dhanmondi,Completed,Car,3.1,No,7,21.81,964.89,3.6,1,Card,25,2024-06-22,CUST1032,Repeated
+TRIP100080,Mohammadpur,Mohammadpur,No-show,CNG,3.8,Yes,12,14.52,477.71,3.3,3,Mobile Payment,86,2024-02-20,CUST1610,Repeated
+TRIP100081,Motijheel,Dhanmondi,Cancelled,Bike,3.8,No,19,21.44,555.53,4.8,2,Cash,78,2024-05-22,CUST1257,Repeated
+TRIP100082,Farmgate,Dhanmondi,Completed,Bike,4.2,Yes,9,6.6,666.36,3.4,4,Cash,12,2024-06-30,CUST1631,Repeated
+TRIP100083,Mohammadpur,Bashundhara,Completed,Bike,4.3,No,16,15.81,53.24,4.3,2,Mobile Payment,78,2024-05-25,CUST1463,New
+TRIP100084,Mirpur,Dhanmondi,No-show,Microbus,3.5,Yes,5,3.93,472.77,4.5,1,Mobile Payment,79,2024-02-06,CUST1364,New
+TRIP100085,Mirpur,Dhanmondi,Cancelled,CNG,4.3,No,14,3.12,100.88,4.5,1,Mobile Payment,72,2024-06-09,CUST1216,Repeated
+TRIP100086,Motijheel,Bashundhara,Completed,CNG,3.9,No,10,19.44,738.77,4.3,3,Mobile Payment,61,2024-02-13,CUST1565,Repeated
+TRIP100087,Dhanmondi,Gulshan,Completed,Microbus,5.0,Yes,2,23.29,87.32,4.4,1,Card,32,2024-06-25,CUST1083,Repeated
+TRIP100088,Dhanmondi,Mohammadpur,Completed,CNG,4.7,No,11,20.28,655.62,3.6,1,Mobile Payment,67,2024-01-06,CUST1329,Repeated
+TRIP100089,Mohammadpur,Mohammadpur,No-show,Car,3.9,Yes,15,6.49,995.51,4.7,1,Mobile Payment,30,2024-02-11,CUST1602,Repeated
+TRIP100090,Farmgate,Uttara,Completed,Car,3.2,No,1,13.61,455.27,4.9,3,Cash,57,2024-01-07,CUST1485,New
+TRIP100091,Mohammadpur,Motijheel,Completed,Microbus,4.4,Yes,12,4.95,446.82,4.7,1,Cash,45,2024-02-09,CUST1254,Repeated
+TRIP100092,Farmgate,Motijheel,Completed,Car,3.7,No,7,10.95,749.11,4.5,1,Card,5,2024-06-04,CUST1277,Repeated
+TRIP100093,Mirpur,Mohammadpur,No-show,Car,3.7,Yes,5,8.88,908.74,4.9,1,Card,61,2024-03-26,CUST1094,Repeated
+TRIP100094,Motijheel,Mirpur,Completed,Microbus,3.7,No,5,9.36,448.9,4.5,4,Cash,53,2024-06-06,CUST1533,Repeated
+TRIP100095,Farmgate,Farmgate,Completed,CNG,4.4,No,3,16.6,810.08,4.5,2,Mobile Payment,49,2024-03-31,CUST1263,Repeated
+TRIP100096,Dhanmondi,Bashundhara,Completed,CNG,3.8,No,17,9.55,86.39,4.0,2,Card,70,2024-01-24,CUST1282,Repeated
+TRIP100097,Mirpur,Mirpur,Completed,Microbus,4.1,No,17,3.08,140.56,3.9,1,Mobile Payment,59,2024-02-27,CUST1119,Repeated
+TRIP100098,Mirpur,Bashundhara,Cancelled,Microbus,3.3,No,7,24.16,76.13,3.8,1,Cash,56,2024-04-12,CUST1358,Repeated
+TRIP100099,Dhanmondi,Mirpur,Completed,CNG,3.8,Yes,14,16.6,695.22,3.7,1,Cash,68,2024-01-20,CUST1612,Repeated
+TRIP100100,Farmgate,Motijheel,Completed,Microbus,3.7,No,16,22.53,768.9,3.0,3,Card,45,2024-06-11,CUST1035,Repeated
+TRIP100101,Gulshan,Mohammadpur,Completed,Bike,4.8,No,6,18.47,372.57,4.6,1,Cash,74,2024-05-17,CUST1561,Repeated
+TRIP100102,Motijheel,Farmgate,Cancelled,Microbus,4.4,No,11,8.56,91.12,3.9,1,Cash,41,2024-02-24,CUST1076,Repeated
+TRIP100103,Gulshan,Bashundhara,Completed,CNG,3.7,No,10,2.03,172.82,4.4,1,Cash,43,2024-02-25,CUST1194,Repeated
+TRIP100104,Motijheel,Banani,Completed,Car,3.5,No,12,1.48,318.77,4.5,1,Cash,76,2024-01-19,CUST1637,New
+TRIP100105,Dhanmondi,Banani,Completed,CNG,3.3,No,14,8.42,894.47,3.6,1,Card,6,2024-01-22,CUST1049,Repeated
+TRIP100106,Farmgate,Gulshan,Completed,CNG,3.3,Yes,10,17.51,821.3,3.9,4,Cash,29,2024-04-02,CUST1169,Repeated
+TRIP100107,Mohammadpur,Dhanmondi,Completed,Microbus,3.1,No,13,20.29,737.44,4.9,2,Cash,38,2024-05-23,CUST1414,Repeated
+TRIP100108,Banani,Motijheel,Completed,Microbus,4.1,Yes,18,8.29,170.86,3.1,4,Mobile Payment,10,2024-02-07,CUST1541,New
+TRIP100109,Mirpur,Dhanmondi,Completed,Microbus,4.3,No,14,11.64,991.34,3.9,1,Mobile Payment,72,2024-06-13,CUST1285,New
+TRIP100110,Farmgate,Motijheel,Completed,CNG,3.2,No,1,9.9,268.84,4.5,1,Mobile Payment,76,2024-01-27,CUST1431,Repeated
+TRIP100111,Mohammadpur,Bashundhara,Completed,CNG,4.3,No,6,11.61,453.94,4.3,3,Card,15,2024-06-17,CUST1626,Repeated
+TRIP100112,Mirpur,Banani,Cancelled,Car,4.8,Yes,7,2.47,822.6,3.1,2,Mobile Payment,36,2024-02-29,CUST1585,Repeated
+TRIP100113,Mohammadpur,Mirpur,Completed,Car,4.8,No,11,17.09,262.27,4.0,2,Mobile Payment,26,2024-03-18,CUST1193,New
+TRIP100114,Motijheel,Bashundhara,Completed,Microbus,3.2,Yes,4,23.62,484.07,3.6,1,Mobile Payment,33,2024-01-31,CUST1690,Repeated
+TRIP100115,Bashundhara,Bashundhara,Completed,Microbus,4.5,No,14,19.85,710.49,3.4,1,Card,6,2024-05-11,CUST1223,Repeated
+TRIP100116,Mohammadpur,Farmgate,Cancelled,CNG,4.6,No,15,5.62,279.21,4.4,1,Cash,81,2024-06-16,CUST1131,Repeated
+TRIP100117,Gulshan,Bashundhara,Completed,Microbus,3.3,No,1,8.6,606.02,3.5,1,Card,40,2024-04-29,CUST1005,New
+TRIP100118,Uttara,Motijheel,Completed,Bike,4.5,No,1,1.86,142.37,3.4,1,Cash,5,2024-03-25,CUST1164,Repeated
+TRIP100119,Farmgate,Bashundhara,Completed,Microbus,3.2,No,7,11.05,380.6,3.8,1,Cash,13,2024-06-09,CUST1339,New
+TRIP100120,Gulshan,Mirpur,Cancelled,Bike,3.7,No,4,2.42,980.87,4.6,1,Cash,6,2024-01-05,CUST1469,Repeated
+TRIP100121,Motijheel,Mohammadpur,Completed,Car,4.1,Yes,10,2.44,504.49,4.9,4,Mobile Payment,65,2024-05-14,CUST1603,Repeated
+TRIP100122,Banani,Bashundhara,Completed,Car,4.2,No,16,13.76,381.0,4.8,2,Cash,55,2024-06-03,CUST1219,Repeated
+TRIP100123,Bashundhara,Farmgate,Completed,CNG,3.2,No,18,6.86,565.26,4.3,2,Card,78,2024-04-12,CUST1078,Repeated
+TRIP100124,Dhanmondi,Bashundhara,Completed,CNG,4.7,No,2,22.82,490.84,3.9,2,Cash,49,2024-01-27,CUST1372,Repeated
+TRIP100125,Banani,Banani,Completed,Microbus,3.3,Yes,19,16.85,415.54,4.3,1,Cash,13,2024-05-15,CUST1297,Repeated
+TRIP100126,Farmgate,Dhanmondi,Completed,CNG,3.3,No,16,24.06,700.57,4.1,1,Cash,42,2024-02-20,CUST1260,Repeated
+TRIP100127,Dhanmondi,Farmgate,Completed,Car,4.6,No,3,8.68,244.56,3.7,2,Card,24,2024-06-14,CUST1296,Repeated
+TRIP100128,Mirpur,Dhanmondi,Cancelled,CNG,3.0,No,13,20.28,721.14,3.4,2,Card,28,2024-06-27,CUST1125,Repeated
+TRIP100129,Gulshan,Uttara,Completed,Microbus,3.1,No,11,17.79,982.5,4.9,2,Cash,54,2024-05-29,CUST1548,Repeated
+TRIP100130,Dhanmondi,Banani,Completed,CNG,4.3,No,9,12.16,199.53,3.6,1,Card,39,2024-01-13,CUST1042,New
+TRIP100131,Mirpur,Mirpur,Completed,Car,3.7,No,10,17.17,955.86,4.8,1,Mobile Payment,54,2024-01-22,CUST1191,Repeated
+TRIP100132,Uttara,Bashundhara,Completed,Microbus,4.7,No,1,20.52,84.91,3.6,1,Mobile Payment,22,2024-03-13,CUST1058,Repeated
+TRIP100133,Motijheel,Dhanmondi,Completed,Microbus,3.6,No,7,13.81,731.88,3.8,3,Card,28,2024-02-12,CUST1284,Repeated
+TRIP100134,Dhanmondi,Uttara,Completed,Bike,3.6,No,6,2.31,571.22,4.5,1,Cash,38,2024-06-11,CUST1133,Repeated
+TRIP100135,Motijheel,Mohammadpur,Completed,Bike,3.8,No,17,7.71,742.86,3.6,1,Cash,15,2024-01-31,CUST1379,Repeated
+TRIP100136,Gulshan,Mirpur,Completed,Microbus,3.9,No,14,23.41,718.94,4.1,2,Mobile Payment,55,2024-02-17,CUST1467,Repeated
+TRIP100137,Uttara,Mohammadpur,Completed,Microbus,4.2,No,8,16.43,928.8,4.2,1,Cash,45,2024-02-17,CUST1609,Repeated
+TRIP100138,Dhanmondi,Mirpur,Completed,Microbus,3.3,No,15,12.38,752.48,3.8,1,Mobile Payment,11,2024-05-04,CUST1023,Repeated
+TRIP100139,Uttara,Motijheel,Completed,Microbus,3.7,No,7,8.72,613.52,4.3,1,Mobile Payment,89,2024-05-17,CUST1236,New
+TRIP100140,Mirpur,Bashundhara,Completed,Microbus,4.4,Yes,7,16.61,514.39,4.6,1,Cash,60,2024-01-21,CUST1077,Repeated
+TRIP100141,Bashundhara,Banani,Cancelled,Car,3.5,No,11,18.33,909.97,3.9,1,Card,72,2024-01-07,CUST1187,Repeated
+TRIP100142,Dhanmondi,Bashundhara,Completed,Bike,4.6,No,1,15.83,689.59,3.6,1,Card,74,2024-05-12,CUST1131,Repeated
+TRIP100143,Dhanmondi,Motijheel,Completed,Car,3.8,No,3,21.02,441.2,3.6,1,Mobile Payment,57,2024-05-03,CUST1312,Repeated
+TRIP100144,Dhanmondi,Uttara,Completed,Car,3.4,No,16,6.86,860.39,4.2,2,Cash,32,2024-02-22,CUST1021,New
+TRIP100145,Mirpur,Motijheel,Completed,CNG,4.6,Yes,16,24.93,403.04,4.0,3,Mobile Payment,74,2024-04-30,CUST1255,New
+TRIP100146,Farmgate,Motijheel,Completed,Bike,3.7,Yes,4,15.76,215.42,4.0,1,Cash,52,2024-01-08,CUST1139,Repeated
+TRIP100147,Dhanmondi,Mohammadpur,Completed,Microbus,3.0,No,18,1.12,840.35,3.9,1,Cash,75,2024-04-26,CUST1574,Repeated
+TRIP100148,Uttara,Mohammadpur,Completed,CNG,4.9,No,16,7.95,484.68,4.9,4,Card,70,2024-03-03,CUST1363,New
+TRIP100149,Mohammadpur,Farmgate,Completed,Car,4.6,No,16,20.67,807.48,3.2,4,Mobile Payment,41,2024-01-28,CUST1567,New
+TRIP100150,Farmgate,Mohammadpur,Completed,Bike,4.2,No,13,22.57,733.38,4.3,1,Card,79,2024-05-31,CUST1608,Repeated
+TRIP100151,Mohammadpur,Mirpur,Completed,CNG,4.6,No,17,8.38,646.42,4.7,1,Card,53,2024-04-20,CUST1277,Repeated
+TRIP100152,Dhanmondi,Gulshan,Completed,Car,3.4,No,4,20.36,359.56,4.6,1,Cash,27,2024-06-01,CUST1036,Repeated
+TRIP100153,Motijheel,Mirpur,Completed,Car,3.6,No,7,13.17,845.37,3.5,1,Cash,74,2024-05-11,CUST1226,New
+TRIP100154,Farmgate,Uttara,No-show,CNG,4.3,Yes,8,7.21,74.12,4.7,2,Card,24,2024-02-26,CUST1141,Repeated
+TRIP100155,Banani,Motijheel,Completed,Car,3.7,Yes,7,11.76,876.0,4.4,2,Mobile Payment,78,2024-06-15,CUST1296,Repeated
+TRIP100156,Banani,Uttara,Completed,CNG,4.7,Yes,18,18.6,171.81,4.6,2,Card,11,2024-01-31,CUST1685,Repeated
+TRIP100157,Dhanmondi,Banani,Completed,Microbus,4.4,No,7,3.34,304.94,4.4,1,Cash,86,2024-02-20,CUST1292,Repeated
+TRIP100158,Bashundhara,Gulshan,Completed,Microbus,4.1,No,4,17.64,607.06,5.0,3,Card,88,2024-06-26,CUST1053,Repeated
+TRIP100159,Banani,Bashundhara,Completed,Microbus,3.0,Yes,16,15.8,652.64,4.1,1,Card,21,2024-06-25,CUST1056,Repeated
+TRIP100160,Uttara,Mirpur,No-show,Bike,3.1,No,15,3.7,340.5,4.2,2,Cash,29,2024-06-21,CUST1617,Repeated
+TRIP100161,Dhanmondi,Mohammadpur,Completed,Bike,5.0,No,2,23.59,714.01,4.9,1,Mobile Payment,13,2024-01-19,CUST1104,Repeated
+TRIP100162,Mirpur,Farmgate,Completed,Microbus,3.2,Yes,6,6.98,959.32,4.4,2,Card,66,2024-01-15,CUST1314,Repeated
+TRIP100163,Uttara,Farmgate,Completed,Car,4.3,No,2,16.68,266.09,3.0,4,Mobile Payment,30,2024-02-24,CUST1696,New
+TRIP100164,Dhanmondi,Motijheel,Cancelled,Microbus,4.7,No,13,1.36,414.21,3.4,2,Mobile Payment,7,2024-02-03,CUST1257,Repeated
+TRIP100165,Banani,Mohammadpur,Completed,CNG,4.8,No,15,2.78,251.86,3.9,2,Mobile Payment,63,2024-02-03,CUST1511,New
+TRIP100166,Bashundhara,Uttara,Completed,Microbus,3.8,Yes,1,18.24,757.23,4.3,1,Mobile Payment,86,2024-01-25,CUST1603,Repeated
+TRIP100167,Mohammadpur,Gulshan,Completed,Car,4.8,No,10,2.29,512.68,3.3,1,Mobile Payment,83,2024-02-11,CUST1041,Repeated
+TRIP100168,Motijheel,Bashundhara,Completed,Car,4.6,No,2,24.71,173.85,4.8,1,Cash,79,2024-01-27,CUST1571,Repeated
+TRIP100169,Farmgate,Uttara,Completed,Bike,4.7,No,14,11.62,600.76,3.9,1,Cash,22,2024-02-22,CUST1565,Repeated
+TRIP100170,Farmgate,Bashundhara,Completed,CNG,4.2,No,16,13.4,117.98,4.6,1,Card,13,2024-03-06,CUST1063,Repeated
+TRIP100171,Uttara,Uttara,Completed,Microbus,3.9,No,18,5.46,270.28,4.8,1,Card,16,2024-05-07,CUST1063,Repeated
+TRIP100172,Farmgate,Mirpur,Completed,Microbus,3.4,No,17,9.56,638.67,3.2,1,Mobile Payment,25,2024-02-26,CUST1378,Repeated
+TRIP100173,Motijheel,Mirpur,Completed,CNG,4.7,Yes,1,2.63,606.53,4.4,1,Cash,88,2024-05-12,CUST1282,Repeated
+TRIP100174,Farmgate,Banani,Completed,Car,4.7,Yes,1,21.69,829.2,4.1,3,Mobile Payment,9,2024-01-16,CUST1513,Repeated
+TRIP100175,Mohammadpur,Mohammadpur,Completed,Microbus,3.3,No,1,17.47,318.67,3.7,2,Card,16,2024-03-21,CUST1058,Repeated
+TRIP100176,Banani,Mohammadpur,Completed,CNG,4.9,No,14,10.11,898.75,3.7,2,Cash,80,2024-05-09,CUST1134,New
+TRIP100177,Gulshan,Uttara,Completed,Car,3.1,No,9,22.48,236.22,3.9,2,Card,40,2024-01-05,CUST1117,Repeated
+TRIP100178,Motijheel,Mirpur,Cancelled,Bike,3.0,Yes,14,14.2,847.02,4.4,1,Cash,85,2024-03-07,CUST1691,Repeated
+TRIP100179,Banani,Mirpur,Completed,Microbus,3.1,No,7,7.27,656.41,4.0,2,Cash,68,2024-03-04,CUST1502,Repeated
+TRIP100180,Motijheel,Farmgate,Completed,Car,3.1,No,7,12.78,566.74,4.0,1,Cash,54,2024-03-07,CUST1324,New
+TRIP100181,Bashundhara,Mohammadpur,Completed,CNG,3.4,Yes,12,11.17,210.98,3.3,2,Mobile Payment,17,2024-05-18,CUST1616,Repeated
+TRIP100182,Banani,Dhanmondi,Completed,Bike,3.4,No,19,16.6,634.48,4.1,1,Mobile Payment,25,2024-05-21,CUST1148,New
+TRIP100183,Gulshan,Bashundhara,Cancelled,Microbus,4.4,No,14,7.51,680.69,4.9,2,Cash,27,2024-05-12,CUST1279,Repeated
+TRIP100184,Uttara,Banani,Completed,Microbus,4.2,No,10,11.88,703.48,3.4,1,Cash,48,2024-03-20,CUST1693,Repeated
+TRIP100185,Motijheel,Banani,Completed,Car,4.1,Yes,12,5.66,343.66,3.8,2,Card,80,2024-05-09,CUST1396,Repeated
+TRIP100186,Motijheel,Mohammadpur,Completed,Car,4.1,No,5,24.15,256.74,4.1,3,Mobile Payment,55,2024-05-14,CUST1657,New
+TRIP100187,Banani,Motijheel,Completed,Car,4.2,Yes,16,20.73,218.56,3.8,3,Card,42,2024-05-01,CUST1223,Repeated
+TRIP100188,Dhanmondi,Motijheel,Completed,Car,3.3,No,13,3.82,535.81,4.2,1,Mobile Payment,67,2024-03-23,CUST1222,Repeated
+TRIP100189,Gulshan,Uttara,Completed,CNG,4.4,Yes,1,20.22,804.4,4.9,2,Cash,87,2024-04-02,CUST1467,Repeated
+TRIP100190,Mohammadpur,Motijheel,No-show,Microbus,4.9,No,5,20.31,166.82,5.0,2,Cash,18,2024-03-31,CUST1022,Repeated
+TRIP100191,Banani,Mohammadpur,Completed,Car,5.0,No,8,16.75,673.43,4.0,3,Cash,40,2024-05-14,CUST1344,Repeated
+TRIP100192,Gulshan,Uttara,Cancelled,Car,3.3,Yes,13,10.09,357.27,4.7,1,Mobile Payment,18,2024-03-10,CUST1583,New
+TRIP100193,Mirpur,Uttara,Completed,CNG,3.9,No,5,5.41,464.09,3.5,1,Mobile Payment,5,2024-01-17,CUST1356,Repeated
+TRIP100194,Dhanmondi,Banani,Cancelled,CNG,3.9,No,3,7.89,686.74,4.5,1,Mobile Payment,27,2024-04-17,CUST1690,Repeated
+TRIP100195,Banani,Mirpur,Completed,Bike,3.4,Yes,11,1.18,395.55,5.0,1,Mobile Payment,38,2024-03-28,CUST1625,Repeated
+TRIP100196,Bashundhara,Mirpur,Completed,Microbus,5.0,No,4,8.87,375.8,3.1,2,Mobile Payment,39,2024-01-05,CUST1258,Repeated
+TRIP100197,Bashundhara,Banani,Completed,Bike,3.2,Yes,1,21.68,195.1,3.8,2,Card,69,2024-05-05,CUST1168,Repeated
+TRIP100198,Mohammadpur,Bashundhara,Cancelled,Car,3.7,No,1,3.04,388.66,3.5,1,Cash,76,2024-05-07,CUST1697,Repeated
+TRIP100199,Motijheel,Mohammadpur,Completed,Car,3.6,No,4,14.31,142.85,5.0,1,Cash,27,2024-05-14,CUST1617,Repeated
+TRIP100200,Mirpur,Bashundhara,Completed,Car,3.6,Yes,2,11.35,84.68,4.1,1,Mobile Payment,33,2024-05-11,CUST1697,Repeated
+TRIP100201,Bashundhara,Mohammadpur,Completed,Car,4.4,Yes,5,9.33,686.82,3.5,1,Mobile Payment,34,2024-04-26,CUST1371,Repeated
+TRIP100202,Motijheel,Dhanmondi,Completed,CNG,4.0,No,7,19.57,631.23,3.8,2,Cash,26,2024-06-28,CUST1356,Repeated
+TRIP100203,Mohammadpur,Farmgate,Completed,Microbus,4.2,No,8,14.36,59.45,4.1,2,Cash,79,2024-02-26,CUST1372,Repeated
+TRIP100204,Dhanmondi,Motijheel,Completed,Microbus,4.4,No,2,9.14,422.27,4.1,3,Card,50,2024-04-03,CUST1468,Repeated
+TRIP100205,Farmgate,Motijheel,Completed,CNG,3.8,Yes,12,3.31,55.34,4.0,1,Mobile Payment,40,2024-05-04,CUST1374,Repeated
+TRIP100206,Mohammadpur,Gulshan,Completed,Bike,3.6,No,4,9.59,751.41,3.2,1,Mobile Payment,80,2024-05-01,CUST1254,Repeated
+TRIP100207,Gulshan,Farmgate,Completed,Microbus,3.1,No,15,21.92,874.26,4.1,1,Mobile Payment,43,2024-06-28,CUST1415,New
+TRIP100208,Mirpur,Motijheel,Completed,Bike,4.9,Yes,4,11.93,486.22,3.8,1,Mobile Payment,9,2024-04-23,CUST1673,Repeated
+TRIP100209,Mirpur,Mirpur,Cancelled,Microbus,4.1,No,7,17.28,839.27,3.3,1,Card,84,2024-01-16,CUST1213,New
+TRIP100210,Bashundhara,Banani,Completed,Car,3.4,Yes,19,13.39,897.39,5.0,1,Cash,18,2024-06-27,CUST1593,Repeated
+TRIP100211,Dhanmondi,Gulshan,Completed,Car,3.2,No,12,18.12,506.43,4.6,1,Mobile Payment,63,2024-01-27,CUST1577,Repeated
+TRIP100212,Banani,Bashundhara,No-show,Microbus,4.7,Yes,1,9.75,250.39,4.7,1,Mobile Payment,33,2024-02-04,CUST1001,New
+TRIP100213,Dhanmondi,Banani,Completed,CNG,4.4,No,11,9.66,685.13,4.5,2,Cash,32,2024-01-14,CUST1312,Repeated
+TRIP100214,Motijheel,Gulshan,Completed,Microbus,4.5,No,9,1.94,473.59,4.3,2,Card,25,2024-04-17,CUST1508,Repeated
+TRIP100215,Farmgate,Mohammadpur,Completed,CNG,4.4,Yes,9,12.26,616.6,4.5,1,Card,39,2024-01-05,CUST1122,Repeated
+TRIP100216,Gulshan,Bashundhara,Completed,Car,3.6,No,14,2.55,921.5,3.3,1,Mobile Payment,49,2024-03-28,CUST1649,Repeated
+TRIP100217,Farmgate,Uttara,Completed,Microbus,3.9,Yes,13,21.64,905.1,4.7,1,Mobile Payment,39,2024-03-08,CUST1210,Repeated
+TRIP100218,Gulshan,Farmgate,Completed,Microbus,4.9,No,16,9.38,836.82,4.9,2,Cash,85,2024-04-09,CUST1487,New
+TRIP100219,Mirpur,Banani,Completed,CNG,3.7,No,10,1.79,451.87,4.8,3,Card,21,2024-03-06,CUST1349,Repeated
+TRIP100220,Farmgate,Gulshan,Completed,CNG,4.8,No,17,2.75,223.44,3.9,1,Mobile Payment,70,2024-05-11,CUST1461,New
+TRIP100221,Mohammadpur,Gulshan,Cancelled,Bike,4.8,No,10,16.09,301.71,4.8,1,Card,26,2024-01-05,CUST1189,Repeated
+TRIP100222,Mirpur,Banani,Completed,Car,3.8,No,3,15.9,714.15,3.3,3,Card,35,2024-06-17,CUST1586,Repeated
+TRIP100223,Bashundhara,Mirpur,Completed,Bike,3.1,No,5,4.73,874.12,4.9,2,Mobile Payment,33,2024-04-30,CUST1333,Repeated
+TRIP100224,Mirpur,Motijheel,Completed,Bike,3.4,No,7,7.54,510.24,3.6,1,Cash,8,2024-04-02,CUST1160,Repeated
+TRIP100225,Farmgate,Bashundhara,Cancelled,Bike,3.4,No,11,9.59,511.68,4.3,1,Mobile Payment,60,2024-05-24,CUST1617,Repeated
+TRIP100226,Motijheel,Farmgate,Completed,Car,3.0,No,2,6.75,796.73,4.0,1,Cash,37,2024-01-19,CUST1162,New
+TRIP100227,Farmgate,Motijheel,Cancelled,Car,3.9,No,9,18.25,983.9,4.6,1,Mobile Payment,57,2024-03-28,CUST1187,Repeated
+TRIP100228,Bashundhara,Gulshan,Completed,Bike,4.7,Yes,6,24.75,862.87,4.8,4,Mobile Payment,30,2024-01-12,CUST1122,Repeated
+TRIP100229,Bashundhara,Farmgate,Completed,Microbus,3.7,No,4,23.94,208.74,4.1,1,Mobile Payment,28,2024-06-18,CUST1494,Repeated
+TRIP100230,Bashundhara,Motijheel,Cancelled,Microbus,5.0,No,14,5.41,301.27,4.7,1,Mobile Payment,51,2024-05-10,CUST1329,Repeated
+TRIP100231,Dhanmondi,Mohammadpur,Completed,CNG,4.4,Yes,3,2.85,909.67,3.5,1,Mobile Payment,34,2024-06-25,CUST1636,New
+TRIP100232,Gulshan,Dhanmondi,Completed,Bike,4.8,No,12,23.78,779.89,3.1,1,Cash,55,2024-04-17,CUST1002,Repeated
+TRIP100233,Banani,Gulshan,No-show,Microbus,4.0,Yes,6,8.43,556.69,4.3,1,Cash,26,2024-04-14,CUST1617,Repeated
+TRIP100234,Dhanmondi,Gulshan,Completed,Bike,3.3,No,1,18.14,922.83,3.5,1,Card,47,2024-06-05,CUST1626,Repeated
+TRIP100235,Motijheel,Farmgate,No-show,CNG,3.8,No,3,5.12,975.84,4.6,1,Card,66,2024-01-25,CUST1215,New
+TRIP100236,Banani,Dhanmondi,Cancelled,Bike,4.1,Yes,17,12.75,684.3,4.9,3,Cash,24,2024-05-12,CUST1360,New
+TRIP100237,Dhanmondi,Farmgate,Completed,Car,3.7,No,9,20.49,56.08,3.5,1,Card,53,2024-06-09,CUST1683,New
+TRIP100238,Mirpur,Bashundhara,Completed,Car,4.6,No,5,4.0,372.37,3.4,1,Card,62,2024-01-23,CUST1625,Repeated
+TRIP100239,Mirpur,Dhanmondi,Completed,CNG,3.2,No,1,4.97,212.85,4.8,3,Card,41,2024-01-26,CUST1480,New
+TRIP100240,Gulshan,Bashundhara,Completed,Microbus,4.0,No,14,19.63,551.42,4.8,1,Mobile Payment,18,2024-05-26,CUST1058,Repeated
+TRIP100241,Uttara,Mohammadpur,Cancelled,Microbus,4.9,No,7,16.21,986.69,3.7,1,Cash,44,2024-06-17,CUST1323,Repeated
+TRIP100242,Mirpur,Uttara,Completed,CNG,5.0,No,3,15.99,338.94,3.7,1,Cash,59,2024-06-27,CUST1495,New
+TRIP100243,Mirpur,Motijheel,Completed,Microbus,3.4,Yes,11,1.98,165.08,4.0,3,Card,74,2024-05-16,CUST1631,Repeated
+TRIP100244,Mirpur,Mirpur,Cancelled,Microbus,3.1,No,10,1.13,574.9,3.7,4,Mobile Payment,35,2024-03-20,CUST1158,New
+TRIP100245,Motijheel,Banani,Completed,Bike,4.1,No,1,7.44,471.99,3.8,3,Card,25,2024-04-25,CUST1425,Repeated
+TRIP100246,Bashundhara,Uttara,Completed,CNG,4.6,No,1,19.39,106.3,5.0,4,Cash,85,2024-05-21,CUST1020,Repeated
+TRIP100247,Dhanmondi,Uttara,Completed,Car,4.8,No,11,18.48,945.42,4.9,2,Cash,87,2024-04-17,CUST1192,New
+TRIP100248,Bashundhara,Dhanmondi,Completed,Bike,3.6,No,16,16.42,535.57,3.8,1,Mobile Payment,54,2024-02-05,CUST1095,New
+TRIP100249,Dhanmondi,Dhanmondi,Cancelled,CNG,4.3,Yes,3,22.62,891.49,4.1,2,Mobile Payment,48,2024-01-01,CUST1410,Repeated
+TRIP100250,Banani,Dhanmondi,Completed,Microbus,4.2,Yes,5,20.35,837.51,5.0,2,Cash,57,2024-04-27,CUST1310,Repeated
+TRIP100251,Bashundhara,Motijheel,Completed,Car,3.2,No,11,19.07,118.83,4.5,3,Cash,29,2024-01-10,CUST1599,Repeated
+TRIP100252,Mohammadpur,Uttara,Completed,Car,5.0,No,5,9.96,278.42,3.3,1,Cash,15,2024-01-24,CUST1673,Repeated
+TRIP100253,Mohammadpur,Banani,Completed,CNG,3.0,No,16,1.41,196.7,3.2,1,Mobile Payment,14,2024-03-28,CUST1502,Repeated
+TRIP100254,Motijheel,Farmgate,Completed,CNG,4.1,No,17,10.36,169.58,3.1,2,Mobile Payment,31,2024-06-03,CUST1546,Repeated
+TRIP100255,Bashundhara,Banani,Completed,CNG,3.2,No,18,18.66,291.07,3.0,3,Card,87,2024-06-26,CUST1414,Repeated
+TRIP100256,Bashundhara,Dhanmondi,Cancelled,CNG,4.9,No,7,24.34,123.62,3.1,1,Mobile Payment,88,2024-05-25,CUST1418,Repeated
+TRIP100257,Motijheel,Mohammadpur,Cancelled,Bike,4.7,No,7,1.8,124.26,4.2,2,Card,13,2024-01-18,CUST1231,New
+TRIP100258,Bashundhara,Banani,Completed,Bike,4.6,No,8,2.65,671.54,3.7,1,Cash,55,2024-03-08,CUST1298,Repeated
+TRIP100259,Banani,Motijheel,Completed,CNG,4.4,No,18,1.86,217.26,4.4,1,Card,23,2024-03-01,CUST1246,New
+TRIP100260,Uttara,Mohammadpur,Completed,CNG,4.0,No,19,11.99,108.65,3.7,2,Cash,61,2024-03-07,CUST1469,Repeated
+TRIP100261,Mohammadpur,Uttara,Completed,Car,3.4,No,11,1.02,608.27,3.3,1,Mobile Payment,41,2024-01-24,CUST1310,Repeated
+TRIP100262,Gulshan,Dhanmondi,Completed,Car,3.1,No,13,6.3,134.28,4.8,2,Card,80,2024-03-01,CUST1489,Repeated
+TRIP100263,Mirpur,Mirpur,Cancelled,Microbus,3.9,Yes,8,1.94,674.43,3.6,4,Cash,10,2024-06-21,CUST1156,Repeated
+TRIP100264,Farmgate,Bashundhara,Completed,Car,4.3,Yes,3,19.68,217.46,4.4,4,Cash,61,2024-01-25,CUST1307,New
+TRIP100265,Mohammadpur,Mohammadpur,Completed,Car,4.3,No,1,5.14,800.48,4.8,2,Mobile Payment,20,2024-04-12,CUST1216,Repeated
+TRIP100266,Gulshan,Bashundhara,No-show,Microbus,3.8,Yes,3,18.0,655.92,3.9,1,Mobile Payment,56,2024-01-15,CUST1436,New
+TRIP100267,Banani,Motijheel,Completed,CNG,3.5,No,6,16.66,647.47,3.2,1,Mobile Payment,66,2024-04-04,CUST1655,New
+TRIP100268,Uttara,Farmgate,Completed,Bike,4.1,No,10,6.0,819.78,3.0,2,Mobile Payment,82,2024-03-26,CUST1107,Repeated
+TRIP100269,Mirpur,Mirpur,Completed,Car,4.4,No,16,21.61,992.64,3.6,2,Card,41,2024-01-14,CUST1678,New
+TRIP100270,Gulshan,Uttara,Cancelled,Bike,4.2,No,1,13.38,444.46,4.7,1,Mobile Payment,68,2024-01-25,CUST1216,Repeated
+TRIP100271,Mirpur,Banani,Completed,CNG,3.8,Yes,18,10.87,951.52,4.8,3,Card,51,2024-06-08,CUST1011,New
+TRIP100272,Uttara,Mirpur,Completed,Microbus,4.8,No,7,18.5,843.44,4.7,1,Cash,59,2024-04-03,CUST1245,Repeated
+TRIP100273,Uttara,Farmgate,Completed,Car,3.6,No,19,18.08,421.77,3.5,1,Card,14,2024-01-13,CUST1131,Repeated
+TRIP100274,Bashundhara,Mirpur,Completed,Bike,4.4,No,8,17.99,179.7,4.3,4,Mobile Payment,5,2024-05-14,CUST1304,Repeated
+TRIP100275,Farmgate,Mirpur,Completed,Bike,3.3,No,2,13.85,269.2,4.3,2,Mobile Payment,49,2024-05-12,CUST1342,Repeated
+TRIP100276,Motijheel,Motijheel,Completed,Microbus,4.2,No,5,3.91,164.89,4.7,1,Card,46,2024-02-17,CUST1178,Repeated
+TRIP100277,Uttara,Uttara,No-show,Microbus,4.5,No,15,16.2,560.51,3.4,4,Mobile Payment,30,2024-05-13,CUST1377,Repeated
+TRIP100278,Motijheel,Motijheel,Completed,CNG,3.5,No,15,15.93,725.37,4.7,3,Card,44,2024-01-23,CUST1234,New
+TRIP100279,Farmgate,Gulshan,Completed,Bike,3.3,No,15,17.95,320.43,3.5,2,Cash,77,2024-03-10,CUST1484,New
+TRIP100280,Farmgate,Mohammadpur,Completed,Microbus,3.1,No,4,9.26,775.44,3.7,1,Cash,51,2024-04-11,CUST1471,Repeated
+TRIP100281,Uttara,Dhanmondi,Cancelled,Bike,4.7,No,11,4.6,746.13,3.2,1,Card,38,2024-06-13,CUST1574,Repeated
+TRIP100282,Dhanmondi,Uttara,Completed,Car,3.0,Yes,4,14.48,996.12,3.0,1,Mobile Payment,68,2024-04-22,CUST1169,Repeated
+TRIP100283,Mirpur,Mirpur,Completed,Bike,4.2,No,14,1.38,188.54,4.8,1,Cash,26,2024-04-03,CUST1063,Repeated
+TRIP100284,Gulshan,Bashundhara,Completed,Car,3.2,Yes,14,3.58,911.03,4.8,2,Card,84,2024-01-04,CUST1256,Repeated
+TRIP100285,Banani,Dhanmondi,Completed,Microbus,3.6,Yes,13,24.9,425.49,4.6,2,Mobile Payment,37,2024-05-08,CUST1330,Repeated
+TRIP100286,Bashundhara,Motijheel,Cancelled,Bike,3.7,No,15,10.33,762.4,3.2,3,Mobile Payment,72,2024-04-17,CUST1159,New
+TRIP100287,Motijheel,Motijheel,Cancelled,Car,3.8,No,9,8.2,141.22,4.5,2,Cash,39,2024-03-10,CUST1390,New
+TRIP100288,Dhanmondi,Mohammadpur,Completed,CNG,4.2,No,13,17.33,265.54,4.0,2,Card,19,2024-05-09,CUST1367,New
+TRIP100289,Gulshan,Gulshan,Cancelled,Bike,4.5,Yes,13,2.97,374.65,3.0,1,Cash,58,2024-02-07,CUST1160,Repeated
+TRIP100290,Mirpur,Gulshan,Completed,CNG,3.2,No,11,18.88,432.98,3.1,2,Mobile Payment,57,2024-05-13,CUST1410,Repeated
+TRIP100291,Farmgate,Gulshan,Cancelled,Car,4.0,Yes,16,4.5,219.35,4.0,1,Cash,86,2024-03-19,CUST1166,New
+TRIP100292,Gulshan,Farmgate,Completed,Microbus,4.0,No,12,9.66,167.21,3.8,2,Card,12,2024-01-05,CUST1299,New
+TRIP100293,Bashundhara,Farmgate,Completed,CNG,4.6,Yes,2,15.03,668.36,3.8,1,Card,57,2024-03-04,CUST1131,Repeated
+TRIP100294,Uttara,Mohammadpur,Completed,Bike,4.0,No,11,24.01,194.55,4.7,2,Card,27,2024-06-28,CUST1380,Repeated
+TRIP100295,Motijheel,Gulshan,Completed,Bike,3.7,Yes,3,21.34,292.01,3.7,3,Card,46,2024-01-20,CUST1139,Repeated
+TRIP100296,Gulshan,Mirpur,Completed,Car,4.0,Yes,16,3.23,565.99,4.6,1,Mobile Payment,11,2024-04-20,CUST1586,Repeated
+TRIP100297,Motijheel,Mirpur,Completed,Bike,3.8,No,3,2.92,390.56,3.5,1,Cash,79,2024-04-27,CUST1313,Repeated
+TRIP100298,Motijheel,Banani,Completed,Microbus,4.8,Yes,13,20.35,897.24,4.6,2,Cash,82,2024-02-18,CUST1344,Repeated
+TRIP100299,Mirpur,Mirpur,Completed,Bike,4.4,No,8,21.08,915.69,4.4,2,Cash,25,2024-05-22,CUST1416,Repeated
+TRIP100300,Farmgate,Mirpur,Completed,CNG,3.3,Yes,12,1.67,828.77,3.3,1,Mobile Payment,52,2024-01-21,CUST1422,Repeated
+TRIP100301,Farmgate,Dhanmondi,Completed,Microbus,3.2,Yes,7,19.2,52.24,3.9,1,Card,70,2024-04-08,CUST1062,Repeated
+TRIP100302,Mohammadpur,Mohammadpur,Completed,CNG,3.0,No,2,21.61,573.62,4.2,1,Mobile Payment,6,2024-05-17,CUST1393,New
+TRIP100303,Gulshan,Uttara,Cancelled,Bike,4.5,No,16,20.09,333.76,3.7,1,Mobile Payment,79,2024-06-07,CUST1201,New
+TRIP100304,Mohammadpur,Farmgate,Completed,CNG,3.1,No,8,21.44,857.75,3.8,2,Card,72,2024-02-20,CUST1287,Repeated
+TRIP100305,Motijheel,Dhanmondi,Completed,Car,3.2,Yes,14,18.62,516.39,4.0,1,Cash,11,2024-03-15,CUST1164,Repeated
+TRIP100306,Motijheel,Mirpur,No-show,CNG,3.6,No,11,13.43,900.71,3.6,2,Card,18,2024-03-25,CUST1526,New
+TRIP100307,Dhanmondi,Motijheel,Completed,CNG,4.9,Yes,7,13.46,912.97,3.4,2,Cash,86,2024-06-05,CUST1113,New
+TRIP100308,Bashundhara,Gulshan,Completed,Car,4.3,No,19,11.13,102.94,4.1,1,Card,8,2024-05-18,CUST1075,Repeated
+TRIP100309,Mohammadpur,Banani,Completed,Car,3.3,No,12,13.06,79.19,3.9,1,Card,43,2024-01-22,CUST1094,Repeated
+TRIP100310,Bashundhara,Bashundhara,Completed,CNG,4.6,No,9,15.7,839.85,3.5,4,Mobile Payment,8,2024-02-28,CUST1168,Repeated
+TRIP100311,Banani,Uttara,Completed,Car,4.8,No,3,24.7,779.85,3.3,1,Card,79,2024-01-27,CUST1155,New
+TRIP100312,Farmgate,Mohammadpur,Completed,Microbus,4.7,No,5,11.64,962.0,4.5,2,Mobile Payment,11,2024-01-25,CUST1121,Repeated
+TRIP100313,Mohammadpur,Uttara,Completed,CNG,4.1,No,2,11.98,453.75,4.0,1,Card,37,2024-05-08,CUST1065,Repeated
+TRIP100314,Dhanmondi,Motijheel,Completed,Bike,4.5,No,2,5.96,648.97,3.0,2,Mobile Payment,49,2024-06-22,CUST1036,Repeated
+TRIP100315,Mohammadpur,Motijheel,Completed,CNG,3.7,No,19,20.72,51.15,3.7,1,Cash,52,2024-02-04,CUST1168,Repeated
+TRIP100316,Gulshan,Farmgate,Completed,Car,5.0,No,4,14.34,258.76,4.9,1,Cash,33,2024-05-14,CUST1305,New
+TRIP100317,Mirpur,Farmgate,Cancelled,Bike,3.8,Yes,3,16.26,596.13,4.6,1,Card,43,2024-05-11,CUST1014,New
+TRIP100318,Bashundhara,Bashundhara,No-show,Microbus,3.3,No,2,22.2,77.46,4.1,1,Card,81,2024-05-12,CUST1604,Repeated
+TRIP100319,Dhanmondi,Mohammadpur,Completed,Car,3.5,No,4,13.33,484.68,3.7,1,Mobile Payment,82,2024-04-21,CUST1178,Repeated
+TRIP100320,Uttara,Mohammadpur,Completed,Microbus,4.6,No,14,3.94,746.3,3.5,2,Mobile Payment,5,2024-03-31,CUST1239,Repeated
+TRIP100321,Farmgate,Motijheel,Completed,Microbus,4.4,No,15,15.28,150.04,3.5,1,Card,25,2024-01-07,CUST1582,Repeated
+TRIP100322,Mirpur,Banani,Completed,Car,4.3,No,8,20.44,678.48,3.2,3,Cash,59,2024-02-13,CUST1114,Repeated
+TRIP100323,Bashundhara,Motijheel,Completed,Microbus,3.1,No,14,4.93,344.05,3.3,2,Card,66,2024-06-24,CUST1533,Repeated
+TRIP100324,Farmgate,Gulshan,Completed,CNG,4.2,No,5,23.61,540.65,4.9,4,Mobile Payment,66,2024-04-10,CUST1392,Repeated
+TRIP100325,Dhanmondi,Mirpur,Completed,Microbus,3.5,No,15,22.8,877.77,4.4,2,Cash,38,2024-03-27,CUST1056,Repeated
+TRIP100326,Bashundhara,Gulshan,Completed,Car,5.0,Yes,4,10.54,468.83,4.5,2,Cash,23,2024-02-18,CUST1069,New
+TRIP100327,Motijheel,Bashundhara,Completed,Car,3.9,Yes,12,7.76,55.5,4.4,2,Cash,73,2024-03-12,CUST1408,New
+TRIP100328,Mirpur,Uttara,Completed,CNG,3.4,No,2,17.09,117.85,4.0,3,Mobile Payment,52,2024-02-14,CUST1609,Repeated
+TRIP100329,Mirpur,Mohammadpur,Cancelled,CNG,4.5,No,15,7.81,755.86,3.9,1,Cash,66,2024-05-14,CUST1029,New
+TRIP100330,Mohammadpur,Uttara,Completed,CNG,3.2,No,4,14.47,341.69,4.5,1,Mobile Payment,23,2024-04-23,CUST1089,Repeated
+TRIP100331,Uttara,Gulshan,Cancelled,Car,3.2,No,1,16.19,953.05,3.4,2,Mobile Payment,49,2024-03-12,CUST1178,Repeated
+TRIP100332,Motijheel,Mirpur,Completed,CNG,3.7,No,8,22.63,477.37,4.2,2,Mobile Payment,5,2024-06-14,CUST1037,Repeated
+TRIP100333,Mohammadpur,Mohammadpur,Completed,Car,3.2,No,16,10.35,789.83,4.5,3,Mobile Payment,36,2024-05-09,CUST1024,Repeated
+TRIP100334,Farmgate,Mirpur,No-show,Car,4.4,Yes,14,21.89,631.28,3.5,1,Card,48,2024-03-16,CUST1189,Repeated
+TRIP100335,Bashundhara,Gulshan,Completed,Car,3.5,No,10,21.28,125.65,3.5,1,Mobile Payment,69,2024-01-16,CUST1443,New
+TRIP100336,Dhanmondi,Dhanmondi,Cancelled,Bike,4.3,No,12,23.98,729.02,3.9,2,Cash,35,2024-02-06,CUST1146,Repeated
+TRIP100337,Farmgate,Mirpur,Completed,CNG,4.2,No,14,12.06,211.14,4.4,1,Cash,67,2024-06-17,CUST1100,New
+TRIP100338,Uttara,Mirpur,Completed,Car,4.2,No,9,13.9,453.87,3.9,2,Card,75,2024-06-02,CUST1081,Repeated
+TRIP100339,Farmgate,Mirpur,Cancelled,Microbus,4.4,No,18,23.22,550.14,3.3,1,Card,16,2024-05-11,CUST1240,Repeated
+TRIP100340,Motijheel,Mohammadpur,Completed,Car,3.1,No,13,12.98,954.31,4.6,1,Mobile Payment,7,2024-05-24,CUST1153,Repeated
+TRIP100341,Farmgate,Gulshan,Completed,Bike,4.2,No,6,9.6,450.52,4.0,3,Cash,71,2024-03-10,CUST1587,Repeated
+TRIP100342,Dhanmondi,Banani,Completed,Car,3.7,Yes,1,5.17,789.15,4.6,2,Mobile Payment,85,2024-06-23,CUST1462,New
+TRIP100343,Motijheel,Banani,Completed,Microbus,3.3,Yes,16,21.32,534.46,4.1,1,Cash,39,2024-05-28,CUST1143,Repeated
+TRIP100344,Farmgate,Mohammadpur,Completed,Bike,4.4,Yes,3,13.44,897.89,3.4,2,Card,37,2024-03-08,CUST1656,New
+TRIP100345,Mirpur,Farmgate,Completed,CNG,3.7,No,17,23.87,442.99,3.2,1,Card,44,2024-02-02,CUST1104,Repeated
+TRIP100346,Bashundhara,Mohammadpur,Cancelled,CNG,4.5,No,1,3.63,539.3,4.1,1,Card,34,2024-05-21,CUST1374,Repeated
+TRIP100347,Mirpur,Mohammadpur,Completed,Car,4.8,Yes,2,2.82,334.16,3.1,4,Card,59,2024-05-02,CUST1169,Repeated
+TRIP100348,Gulshan,Uttara,Completed,Car,4.3,No,19,14.14,924.99,4.0,3,Card,15,2024-04-02,CUST1157,Repeated
+TRIP100349,Gulshan,Gulshan,Completed,Car,3.4,No,5,22.59,170.49,3.8,1,Card,53,2024-01-20,CUST1040,Repeated
+TRIP100350,Uttara,Dhanmondi,No-show,Car,3.7,No,15,10.82,703.26,4.3,1,Card,27,2024-02-24,CUST1682,Repeated
+TRIP100351,Farmgate,Uttara,Completed,CNG,4.3,No,12,20.23,462.4,3.3,2,Card,89,2024-04-06,CUST1409,New
+TRIP100352,Banani,Uttara,Completed,Bike,3.1,No,16,9.76,412.92,4.4,1,Card,71,2024-02-29,CUST1440,Repeated
+TRIP100353,Uttara,Gulshan,No-show,Microbus,3.4,No,7,4.66,313.86,4.4,1,Card,47,2024-02-23,CUST1494,Repeated
+TRIP100354,Farmgate,Banani,Cancelled,CNG,4.8,No,14,6.37,950.78,5.0,1,Cash,62,2024-05-12,CUST1508,Repeated
+TRIP100355,Farmgate,Dhanmondi,No-show,Car,4.3,No,12,5.48,725.83,4.6,4,Mobile Payment,42,2024-05-22,CUST1146,Repeated
+TRIP100356,Mirpur,Uttara,Cancelled,Microbus,4.8,No,4,8.05,491.18,4.7,3,Mobile Payment,62,2024-04-06,CUST1621,Repeated
+TRIP100357,Mohammadpur,Uttara,Completed,CNG,5.0,No,18,4.48,717.46,3.1,2,Mobile Payment,79,2024-05-13,CUST1002,Repeated
+TRIP100358,Mohammadpur,Banani,Cancelled,CNG,4.5,No,15,11.65,493.29,4.8,1,Card,14,2024-06-10,CUST1627,Repeated
+TRIP100359,Bashundhara,Gulshan,Completed,Car,3.1,No,15,17.23,750.72,4.1,1,Cash,60,2024-02-28,CUST1117,Repeated
+TRIP100360,Farmgate,Mohammadpur,Completed,Microbus,3.6,Yes,18,12.8,647.59,4.2,1,Cash,63,2024-02-10,CUST1661,Repeated
+TRIP100361,Uttara,Mirpur,Completed,CNG,4.7,No,3,4.76,260.75,5.0,1,Card,35,2024-01-16,CUST1143,Repeated
+TRIP100362,Farmgate,Gulshan,Completed,Car,3.6,No,15,20.31,100.99,3.3,1,Cash,77,2024-01-07,CUST1123,Repeated
+TRIP100363,Motijheel,Bashundhara,Completed,Car,3.5,Yes,17,5.78,472.08,4.8,1,Card,59,2024-04-16,CUST1359,New
+TRIP100364,Farmgate,Farmgate,Completed,CNG,4.5,No,8,6.39,887.83,3.6,1,Card,22,2024-06-09,CUST1070,New
+TRIP100365,Mirpur,Mirpur,No-show,Microbus,4.3,Yes,16,2.21,375.66,3.9,3,Card,58,2024-05-27,CUST1313,Repeated
+TRIP100366,Bashundhara,Dhanmondi,Completed,CNG,4.3,No,16,4.25,659.65,4.1,1,Card,44,2024-05-19,CUST1085,New
+TRIP100367,Motijheel,Motijheel,Completed,CNG,3.2,Yes,12,4.58,316.37,4.3,1,Cash,32,2024-04-28,CUST1446,Repeated
+TRIP100368,Dhanmondi,Gulshan,Completed,CNG,4.0,No,10,8.45,242.12,4.4,1,Mobile Payment,61,2024-03-21,CUST1491,Repeated
+TRIP100369,Motijheel,Mirpur,Cancelled,Microbus,3.9,No,16,17.89,467.96,3.7,1,Card,79,2024-04-24,CUST1341,Repeated
+TRIP100370,Gulshan,Farmgate,Completed,Car,3.0,No,17,18.0,493.86,4.1,1,Card,48,2024-05-03,CUST1098,Repeated
+TRIP100371,Dhanmondi,Uttara,Completed,Microbus,3.8,No,13,24.2,215.58,4.2,1,Mobile Payment,54,2024-06-10,CUST1568,New
+TRIP100372,Uttara,Mirpur,Completed,Microbus,3.3,Yes,5,9.52,573.16,3.9,1,Card,39,2024-01-31,CUST1441,Repeated
+TRIP100373,Banani,Dhanmondi,Cancelled,Bike,3.1,No,9,1.8,564.09,4.3,3,Mobile Payment,38,2024-01-08,CUST1060,Repeated
+TRIP100374,Uttara,Banani,Completed,Bike,3.9,No,4,11.85,863.33,4.2,1,Cash,12,2024-03-19,CUST1555,New
+TRIP100375,Motijheel,Bashundhara,Completed,Microbus,4.4,Yes,5,1.52,221.38,4.2,2,Cash,46,2024-06-03,CUST1571,Repeated
+TRIP100376,Mohammadpur,Farmgate,Completed,Car,4.7,No,13,23.88,285.15,4.5,1,Card,59,2024-06-19,CUST1306,New
+TRIP100377,Gulshan,Motijheel,Completed,Microbus,4.3,No,8,9.88,429.23,3.2,1,Mobile Payment,84,2024-02-27,CUST1283,New
+TRIP100378,Uttara,Motijheel,Completed,Microbus,4.9,No,2,1.85,736.89,3.3,1,Cash,15,2024-02-27,CUST1121,Repeated
+TRIP100379,Dhanmondi,Bashundhara,Completed,Car,3.6,Yes,5,1.15,609.65,3.8,1,Mobile Payment,73,2024-06-17,CUST1646,New
+TRIP100380,Motijheel,Mirpur,Completed,Microbus,4.2,No,13,3.34,832.83,3.1,2,Card,23,2024-02-08,CUST1091,New
+TRIP100381,Bashundhara,Uttara,Completed,CNG,3.1,Yes,3,10.83,158.67,4.2,1,Card,67,2024-03-25,CUST1598,Repeated
+TRIP100382,Mohammadpur,Motijheel,Completed,Bike,4.8,No,17,21.06,724.75,4.0,1,Cash,73,2024-03-27,CUST1561,Repeated
+TRIP100383,Gulshan,Motijheel,Completed,Bike,3.1,No,13,21.83,178.51,3.4,1,Card,85,2024-06-12,CUST1031,New
+TRIP100384,Uttara,Gulshan,Completed,Bike,3.6,No,14,16.47,666.68,3.8,1,Cash,29,2024-02-06,CUST1501,New
+TRIP100385,Dhanmondi,Motijheel,Completed,Bike,3.6,Yes,18,24.59,78.45,3.2,1,Mobile Payment,47,2024-03-07,CUST1615,New
+TRIP100386,Dhanmondi,Mohammadpur,Completed,Microbus,5.0,Yes,7,18.94,617.01,3.9,1,Card,61,2024-04-14,CUST1421,Repeated
+TRIP100387,Dhanmondi,Mohammadpur,Completed,Bike,3.8,No,17,9.69,393.96,4.6,2,Card,54,2024-02-21,CUST1248,New
+TRIP100388,Uttara,Motijheel,Cancelled,Bike,3.4,No,14,1.16,708.05,3.6,3,Card,16,2024-05-02,CUST1464,Repeated
+TRIP100389,Mohammadpur,Motijheel,Completed,Bike,4.9,Yes,16,4.79,958.64,3.9,2,Mobile Payment,60,2024-05-13,CUST1133,Repeated
+TRIP100390,Bashundhara,Gulshan,Completed,CNG,4.0,No,13,22.11,418.51,4.2,1,Cash,30,2024-05-22,CUST1552,New
+TRIP100391,Dhanmondi,Mirpur,Completed,Bike,3.4,No,13,20.69,186.15,4.5,1,Card,48,2024-01-13,CUST1622,Repeated
+TRIP100392,Gulshan,Bashundhara,Completed,Microbus,5.0,Yes,2,17.17,363.9,3.8,1,Mobile Payment,13,2024-06-28,CUST1629,Repeated
+TRIP100393,Uttara,Mohammadpur,Completed,Bike,4.3,Yes,11,15.11,192.07,3.7,1,Mobile Payment,89,2024-03-27,CUST1010,New
+TRIP100394,Uttara,Dhanmondi,Completed,Car,3.0,Yes,15,16.05,790.08,4.7,1,Card,19,2024-01-06,CUST1504,Repeated
+TRIP100395,Uttara,Mohammadpur,Cancelled,Microbus,3.3,No,17,23.68,958.63,3.3,1,Cash,68,2024-02-16,CUST1224,Repeated
+TRIP100396,Gulshan,Gulshan,Cancelled,Bike,3.1,Yes,8,5.76,534.89,3.5,2,Cash,20,2024-01-15,CUST1020,Repeated
+TRIP100397,Bashundhara,Gulshan,No-show,Car,4.2,No,9,9.2,637.08,3.1,1,Cash,25,2024-03-18,CUST1448,New
+TRIP100398,Farmgate,Uttara,Completed,Car,3.3,No,9,20.43,998.45,3.1,2,Card,21,2024-03-04,CUST1517,Repeated
+TRIP100399,Mirpur,Motijheel,Completed,Bike,3.2,Yes,15,20.09,235.84,3.3,2,Card,82,2024-04-10,CUST1386,Repeated
+TRIP100400,Motijheel,Uttara,Cancelled,Car,3.7,Yes,17,9.68,222.03,3.7,1,Mobile Payment,17,2024-01-22,CUST1620,New
+TRIP100401,Gulshan,Gulshan,Completed,CNG,4.4,No,7,22.22,662.66,3.6,2,Card,61,2024-04-09,CUST1049,Repeated
+TRIP100402,Banani,Farmgate,Cancelled,Microbus,5.0,No,8,23.7,702.86,4.5,1,Cash,70,2024-03-09,CUST1117,Repeated
+TRIP100403,Mohammadpur,Mirpur,Completed,CNG,4.3,Yes,16,22.79,240.41,4.5,1,Cash,30,2024-04-08,CUST1622,Repeated
+TRIP100404,Farmgate,Mirpur,No-show,Microbus,4.6,Yes,8,17.22,109.77,4.3,1,Cash,74,2024-05-17,CUST1086,Repeated
+TRIP100405,Mohammadpur,Dhanmondi,Cancelled,Microbus,4.5,No,7,19.11,375.47,3.8,1,Cash,47,2024-05-10,CUST1382,Repeated
+TRIP100406,Bashundhara,Dhanmondi,Cancelled,Car,4.5,No,7,6.44,458.27,3.3,2,Card,83,2024-05-23,CUST1483,Repeated
+TRIP100407,Mohammadpur,Mirpur,Completed,CNG,3.1,No,17,7.21,900.31,3.5,4,Cash,5,2024-06-05,CUST1635,New
+TRIP100408,Bashundhara,Mohammadpur,Completed,Car,3.8,No,9,19.95,481.36,4.5,1,Cash,41,2024-01-05,CUST1082,Repeated
+TRIP100409,Dhanmondi,Uttara,Completed,Microbus,4.9,No,4,14.92,343.39,4.7,1,Mobile Payment,28,2024-06-28,CUST1548,Repeated
+TRIP100410,Dhanmondi,Bashundhara,Completed,Car,4.3,No,15,1.93,438.8,4.4,3,Card,24,2024-03-13,CUST1616,Repeated
+TRIP100411,Farmgate,Motijheel,Completed,Car,3.3,No,12,7.13,122.56,3.2,1,Card,6,2024-04-12,CUST1076,Repeated
+TRIP100412,Banani,Banani,Completed,CNG,3.9,No,4,4.95,944.57,5.0,1,Cash,19,2024-01-08,CUST1119,Repeated
+TRIP100413,Dhanmondi,Dhanmondi,Completed,Car,5.0,Yes,16,2.26,468.09,3.7,1,Card,6,2024-04-30,CUST1149,Repeated
+TRIP100414,Farmgate,Dhanmondi,Completed,Car,4.7,No,18,19.23,245.98,3.1,1,Cash,67,2024-05-07,CUST1107,Repeated
+TRIP100415,Mohammadpur,Motijheel,Completed,CNG,3.2,No,15,17.48,411.98,3.9,2,Cash,40,2024-05-04,CUST1564,Repeated
+TRIP100416,Mohammadpur,Gulshan,Completed,Car,4.7,No,8,13.63,234.53,4.3,1,Mobile Payment,77,2024-04-05,CUST1152,New
+TRIP100417,Dhanmondi,Mohammadpur,Completed,Car,4.3,No,18,19.54,352.62,4.2,4,Mobile Payment,21,2024-02-10,CUST1502,Repeated
+TRIP100418,Banani,Mirpur,Completed,Microbus,3.3,No,18,3.23,598.62,3.4,2,Cash,26,2024-05-29,CUST1141,Repeated
+TRIP100419,Uttara,Farmgate,No-show,Car,4.5,No,16,5.25,178.51,3.2,1,Mobile Payment,19,2024-02-02,CUST1009,Repeated
+TRIP100420,Mohammadpur,Bashundhara,Completed,Car,4.8,No,12,22.83,466.54,4.6,1,Cash,63,2024-03-22,CUST1400,Repeated
+TRIP100421,Gulshan,Dhanmondi,Completed,Bike,3.5,Yes,13,3.39,848.23,3.6,1,Mobile Payment,61,2024-05-05,CUST1479,Repeated
+TRIP100422,Motijheel,Bashundhara,Completed,CNG,4.2,No,10,22.02,842.06,4.8,1,Cash,33,2024-05-18,CUST1105,Repeated
+TRIP100423,Gulshan,Banani,Completed,Microbus,4.6,Yes,1,2.3,544.38,4.7,3,Cash,26,2024-06-10,CUST1561,Repeated
+TRIP100424,Bashundhara,Gulshan,Completed,CNG,4.7,No,7,1.12,380.12,4.9,2,Card,78,2024-01-05,CUST1219,Repeated
+TRIP100425,Mohammadpur,Mohammadpur,Completed,Car,3.3,No,18,12.09,269.73,4.1,3,Card,48,2024-05-31,CUST1428,Repeated
+TRIP100426,Motijheel,Mohammadpur,Completed,Car,4.9,No,14,24.1,910.53,3.7,1,Cash,60,2024-04-15,CUST1472,New
+TRIP100427,Mirpur,Mirpur,Completed,CNG,4.9,No,10,9.45,209.72,4.8,1,Card,18,2024-01-30,CUST1435,New
+TRIP100428,Motijheel,Mohammadpur,Cancelled,Car,4.1,Yes,12,7.04,114.92,4.8,1,Mobile Payment,69,2024-05-10,CUST1271,New
+TRIP100429,Gulshan,Motijheel,Cancelled,Bike,3.6,No,12,21.41,185.05,3.3,1,Card,12,2024-01-15,CUST1032,Repeated
+TRIP100430,Bashundhara,Banani,Completed,Car,4.7,No,11,12.0,892.25,4.6,4,Cash,84,2024-06-24,CUST1057,New
+TRIP100431,Farmgate,Motijheel,Completed,Bike,4.8,Yes,1,6.72,489.41,4.5,1,Mobile Payment,7,2024-05-27,CUST1274,New
+TRIP100432,Mohammadpur,Dhanmondi,Cancelled,CNG,3.6,Yes,10,15.09,646.65,3.2,1,Card,56,2024-01-29,CUST1605,Repeated
+TRIP100433,Mohammadpur,Bashundhara,Completed,CNG,3.3,No,15,2.41,708.29,4.6,1,Card,65,2024-06-08,CUST1160,Repeated
+TRIP100434,Farmgate,Motijheel,Completed,Microbus,4.3,No,17,15.33,544.98,3.4,2,Cash,22,2024-02-04,CUST1613,Repeated
+TRIP100435,Uttara,Uttara,Completed,Bike,4.4,Yes,2,19.58,534.16,3.6,1,Cash,25,2024-05-23,CUST1676,New
+TRIP100436,Dhanmondi,Mirpur,Completed,Microbus,4.4,No,3,11.37,469.22,4.0,2,Card,61,2024-03-28,CUST1125,Repeated
+TRIP100437,Gulshan,Gulshan,Completed,Microbus,4.5,No,1,11.43,667.88,4.4,1,Mobile Payment,82,2024-05-04,CUST1574,Repeated
+TRIP100438,Motijheel,Banani,Cancelled,CNG,3.8,Yes,2,10.16,914.29,3.8,2,Cash,74,2024-04-06,CUST1272,Repeated
+TRIP100439,Dhanmondi,Banani,Completed,CNG,4.9,No,4,21.74,328.48,4.9,1,Cash,65,2024-01-19,CUST1537,Repeated
+TRIP100440,Mirpur,Mirpur,Completed,Car,3.9,Yes,19,14.58,198.35,4.9,1,Mobile Payment,15,2024-03-06,CUST1383,New
+TRIP100441,Gulshan,Motijheel,Completed,CNG,4.5,No,7,2.41,252.71,4.8,2,Cash,24,2024-06-29,CUST1269,Repeated
+TRIP100442,Banani,Farmgate,Completed,CNG,4.9,No,10,19.27,384.88,4.3,1,Cash,58,2024-01-29,CUST1612,Repeated
+TRIP100443,Mirpur,Mirpur,Completed,Car,4.0,No,6,9.6,776.73,4.8,1,Card,89,2024-06-12,CUST1272,Repeated
+TRIP100444,Motijheel,Farmgate,Completed,CNG,4.8,No,6,2.82,239.62,4.3,2,Card,46,2024-05-11,CUST1096,New
+TRIP100445,Banani,Banani,Completed,Microbus,3.4,No,6,17.92,646.08,4.9,1,Card,23,2024-06-09,CUST1282,Repeated
+TRIP100446,Farmgate,Bashundhara,Completed,Car,3.5,No,18,2.56,793.48,4.7,3,Cash,17,2024-03-04,CUST1416,Repeated
+TRIP100447,Banani,Mohammadpur,Completed,CNG,3.4,Yes,3,16.15,723.95,4.8,1,Mobile Payment,26,2024-02-17,CUST1553,New
+TRIP100448,Mohammadpur,Motijheel,Completed,Bike,4.9,No,9,7.75,299.94,3.5,1,Mobile Payment,87,2024-03-20,CUST1188,New
+TRIP100449,Banani,Mohammadpur,Completed,CNG,3.2,No,14,1.24,522.25,4.9,2,Card,23,2024-06-21,CUST1065,Repeated
+TRIP100450,Motijheel,Bashundhara,Completed,Car,4.1,Yes,15,17.76,363.07,3.7,1,Cash,41,2024-06-08,CUST1381,New
+TRIP100451,Motijheel,Uttara,Completed,Bike,4.5,No,19,19.64,968.68,3.7,1,Mobile Payment,54,2024-06-19,CUST1200,Repeated
+TRIP100452,Bashundhara,Motijheel,Completed,Bike,3.6,No,15,8.83,186.67,4.5,2,Cash,39,2024-01-28,CUST1530,Repeated
+TRIP100453,Farmgate,Bashundhara,Completed,Car,3.4,No,17,7.89,420.1,4.1,1,Card,87,2024-01-31,CUST1138,New
+TRIP100454,Mohammadpur,Mirpur,Completed,CNG,4.5,Yes,12,18.04,133.61,4.9,1,Mobile Payment,36,2024-01-12,CUST1206,New
+TRIP100455,Bashundhara,Gulshan,Cancelled,Microbus,3.3,No,8,18.56,258.45,4.3,2,Mobile Payment,73,2024-04-06,CUST1622,Repeated
+TRIP100456,Mirpur,Farmgate,Completed,CNG,3.8,No,14,17.16,298.11,4.9,1,Mobile Payment,17,2024-04-13,CUST1204,Repeated
+TRIP100457,Gulshan,Mirpur,Cancelled,Car,3.1,Yes,14,19.4,745.28,4.7,1,Cash,13,2024-05-10,CUST1560,New
+TRIP100458,Mirpur,Bashundhara,Completed,Car,3.9,No,1,16.22,965.6,3.3,2,Mobile Payment,35,2024-04-08,CUST1128,New
+TRIP100459,Bashundhara,Farmgate,Completed,CNG,3.5,No,15,20.55,323.16,4.5,1,Card,80,2024-04-24,CUST1661,Repeated
+TRIP100460,Dhanmondi,Dhanmondi,Cancelled,CNG,3.2,No,6,19.0,944.34,4.4,2,Cash,18,2024-06-22,CUST1431,Repeated
+TRIP100461,Mirpur,Uttara,Completed,Car,5.0,No,10,3.06,527.82,4.0,1,Card,70,2024-06-08,CUST1489,Repeated
+TRIP100462,Motijheel,Uttara,Completed,Microbus,3.1,No,19,21.5,827.07,3.7,1,Card,5,2024-03-13,CUST1537,Repeated
+TRIP100463,Farmgate,Mirpur,Completed,Bike,3.1,No,17,13.13,844.24,3.8,1,Cash,30,2024-03-16,CUST1160,Repeated
+TRIP100464,Gulshan,Mirpur,Completed,Microbus,4.6,Yes,5,17.15,387.29,3.5,3,Cash,63,2024-04-18,CUST1264,Repeated
+TRIP100465,Uttara,Farmgate,Completed,Bike,4.4,No,18,23.82,712.99,3.8,2,Card,37,2024-01-19,CUST1037,Repeated
+TRIP100466,Mohammadpur,Farmgate,Completed,Microbus,3.6,Yes,18,5.77,932.49,3.2,1,Mobile Payment,82,2024-02-09,CUST1151,Repeated
+TRIP100467,Farmgate,Motijheel,Completed,Car,3.5,No,5,19.24,546.51,3.3,1,Cash,30,2024-01-07,CUST1204,Repeated
+TRIP100468,Banani,Motijheel,Completed,CNG,3.5,No,2,3.05,316.55,4.4,3,Card,11,2024-06-15,CUST1438,Repeated
+TRIP100469,Farmgate,Mirpur,Completed,Car,4.7,No,1,5.64,411.85,4.5,2,Mobile Payment,74,2024-05-03,CUST1034,New
+TRIP100470,Uttara,Mohammadpur,Completed,CNG,4.3,Yes,2,14.07,844.06,4.0,3,Cash,68,2024-04-05,CUST1453,Repeated
+TRIP100471,Dhanmondi,Mohammadpur,Completed,CNG,3.4,No,18,22.11,419.7,5.0,1,Card,65,2024-05-31,CUST1214,New
+TRIP100472,Motijheel,Mirpur,Cancelled,CNG,4.9,No,1,2.4,717.87,3.6,1,Cash,69,2024-03-24,CUST1460,Repeated
+TRIP100473,Uttara,Banani,Completed,Bike,3.8,Yes,3,21.9,428.36,3.2,2,Mobile Payment,41,2024-01-17,CUST1108,Repeated
+TRIP100474,Motijheel,Bashundhara,Completed,CNG,3.5,Yes,14,21.08,610.1,5.0,3,Card,55,2024-03-12,CUST1065,Repeated
+TRIP100475,Motijheel,Uttara,Cancelled,Bike,3.4,No,6,5.75,452.97,4.5,1,Card,25,2024-06-02,CUST1007,Repeated
+TRIP100476,Dhanmondi,Mirpur,Completed,Bike,3.8,No,15,23.82,264.27,3.5,3,Cash,78,2024-05-21,CUST1680,New
+TRIP100477,Dhanmondi,Mirpur,Completed,CNG,4.9,No,15,3.62,950.82,3.2,1,Mobile Payment,28,2024-04-08,CUST1023,Repeated
+TRIP100478,Gulshan,Mirpur,Completed,Microbus,4.3,Yes,11,17.96,334.34,4.8,1,Cash,75,2024-05-09,CUST1577,Repeated
+TRIP100479,Farmgate,Mirpur,Completed,Bike,4.6,Yes,9,19.16,307.71,3.2,1,Mobile Payment,87,2024-03-20,CUST1538,New
+TRIP100480,Motijheel,Uttara,Completed,Car,5.0,Yes,7,11.13,266.48,3.7,1,Cash,24,2024-05-20,CUST1559,Repeated
+TRIP100481,Uttara,Farmgate,Completed,Car,3.9,No,16,4.38,282.28,4.8,2,Cash,30,2024-02-12,CUST1084,New
+TRIP100482,Uttara,Banani,Completed,Car,4.9,Yes,6,14.85,262.41,4.5,1,Card,71,2024-03-10,CUST1250,Repeated
+TRIP100483,Mirpur,Mohammadpur,Completed,Car,4.0,No,5,12.35,745.4,3.1,1,Card,65,2024-02-09,CUST1003,New
+TRIP100484,Uttara,Mirpur,Completed,Microbus,4.1,No,7,12.61,824.16,4.1,4,Mobile Payment,77,2024-03-31,CUST1270,New
+TRIP100485,Uttara,Mirpur,No-show,Bike,4.7,No,8,15.98,598.44,3.9,2,Mobile Payment,46,2024-02-27,CUST1412,Repeated
+TRIP100486,Gulshan,Dhanmondi,Completed,CNG,3.7,Yes,13,19.26,959.86,3.7,1,Card,76,2024-06-02,CUST1092,Repeated
+TRIP100487,Motijheel,Bashundhara,Completed,Bike,4.3,No,19,22.63,469.27,4.4,2,Mobile Payment,43,2024-04-13,CUST1442,New
+TRIP100488,Bashundhara,Dhanmondi,Completed,Microbus,3.8,No,3,21.2,626.3,4.4,1,Cash,89,2024-01-06,CUST1301,Repeated
+TRIP100489,Mirpur,Farmgate,Completed,Car,4.8,No,9,13.08,201.41,4.5,1,Mobile Payment,19,2024-01-15,CUST1180,New
+TRIP100490,Mirpur,Mohammadpur,Completed,CNG,3.9,Yes,7,10.66,415.33,4.0,3,Card,77,2024-03-24,CUST1695,Repeated
+TRIP100491,Motijheel,Dhanmondi,Completed,CNG,3.9,Yes,6,11.18,838.26,4.8,4,Cash,57,2024-05-11,CUST1379,Repeated
+TRIP100492,Mirpur,Banani,Completed,CNG,4.9,Yes,10,21.14,482.78,4.9,2,Cash,16,2024-06-15,CUST1577,Repeated
+TRIP100493,Uttara,Motijheel,Completed,Bike,3.5,Yes,8,8.26,570.49,4.1,1,Card,61,2024-05-15,CUST1688,New
+TRIP100494,Bashundhara,Motijheel,Completed,CNG,4.4,No,8,23.07,741.89,3.7,1,Card,62,2024-01-13,CUST1253,New
+TRIP100495,Dhanmondi,Mirpur,Completed,Car,4.0,No,12,2.53,296.39,4.2,1,Mobile Payment,19,2024-03-31,CUST1141,Repeated
+TRIP100496,Motijheel,Mohammadpur,Completed,CNG,5.0,No,16,18.54,990.26,3.7,1,Mobile Payment,48,2024-03-11,CUST1684,New
+TRIP100497,Motijheel,Motijheel,Completed,CNG,4.7,Yes,3,21.05,816.39,3.1,1,Card,58,2024-04-03,CUST1674,Repeated
+TRIP100498,Banani,Motijheel,Completed,Bike,4.8,No,7,5.38,83.7,4.0,1,Mobile Payment,9,2024-03-21,CUST1205,Repeated
+TRIP100499,Uttara,Mirpur,Cancelled,Microbus,3.1,Yes,15,9.55,970.21,4.5,1,Card,81,2024-01-01,CUST1124,Repeated
+TRIP100500,Banani,Dhanmondi,Completed,CNG,3.8,No,6,14.44,338.84,3.1,4,Cash,25,2024-04-05,CUST1348,New
+TRIP100501,Bashundhara,Motijheel,Completed,Bike,4.8,Yes,12,4.99,769.96,4.4,2,Card,64,2024-04-07,CUST1259,Repeated
+TRIP100502,Mohammadpur,Motijheel,Completed,Microbus,4.5,Yes,19,17.56,227.82,4.5,3,Mobile Payment,39,2024-02-07,CUST1048,Repeated
+TRIP100503,Dhanmondi,Dhanmondi,Completed,Microbus,3.0,Yes,11,15.77,765.05,3.9,1,Cash,67,2024-03-26,CUST1330,Repeated
+TRIP100504,Bashundhara,Mohammadpur,Cancelled,Microbus,4.1,No,6,14.26,824.05,3.0,2,Cash,34,2024-04-17,CUST1379,Repeated
+TRIP100505,Mohammadpur,Uttara,Completed,Bike,3.5,No,14,2.39,148.95,4.7,1,Mobile Payment,14,2024-03-09,CUST1377,Repeated
+TRIP100506,Banani,Motijheel,Completed,Microbus,4.6,No,3,24.68,578.0,3.4,1,Cash,74,2024-05-03,CUST1611,Repeated
+TRIP100507,Farmgate,Mohammadpur,Completed,Microbus,4.3,No,10,23.14,137.81,3.5,1,Card,8,2024-06-10,CUST1618,New
+TRIP100508,Motijheel,Dhanmondi,Completed,Bike,4.9,Yes,10,22.96,151.81,4.9,1,Mobile Payment,16,2024-06-27,CUST1530,Repeated
+TRIP100509,Farmgate,Mirpur,Completed,Microbus,4.1,No,6,17.84,198.98,3.8,3,Cash,64,2024-02-17,CUST1671,Repeated
+TRIP100510,Mirpur,Bashundhara,Completed,Car,3.4,No,8,15.57,737.58,4.1,4,Card,21,2024-06-30,CUST1258,Repeated
+TRIP100511,Mohammadpur,Dhanmondi,Completed,Car,3.6,No,13,7.42,437.21,4.6,1,Cash,12,2024-01-14,CUST1183,Repeated
+TRIP100512,Mohammadpur,Motijheel,Completed,Microbus,4.2,No,10,5.86,959.22,3.4,1,Card,20,2024-06-18,CUST1227,New
+TRIP100513,Motijheel,Banani,Completed,Bike,4.9,No,13,1.15,681.15,3.2,1,Cash,83,2024-03-02,CUST1022,Repeated
+TRIP100514,Motijheel,Dhanmondi,Cancelled,Bike,4.5,No,9,1.09,973.01,3.3,2,Mobile Payment,60,2024-06-11,CUST1659,New
+TRIP100515,Mirpur,Motijheel,Completed,Car,3.0,No,6,16.6,620.89,4.2,2,Mobile Payment,8,2024-05-17,CUST1488,Repeated
+TRIP100516,Uttara,Dhanmondi,Cancelled,Car,3.8,Yes,3,16.72,972.64,3.3,1,Cash,41,2024-04-26,CUST1025,Repeated
+TRIP100517,Bashundhara,Motijheel,Completed,Car,3.2,Yes,7,4.45,934.35,3.7,3,Cash,87,2024-04-18,CUST1229,Repeated
+TRIP100518,Gulshan,Farmgate,Completed,CNG,4.3,No,3,3.21,893.65,4.7,1,Cash,49,2024-01-20,CUST1330,Repeated
+TRIP100519,Mirpur,Motijheel,Completed,Car,4.4,Yes,3,4.71,336.79,3.6,4,Card,77,2024-03-16,CUST1012,New
+TRIP100520,Gulshan,Uttara,Completed,Bike,4.1,Yes,17,24.07,611.13,4.2,2,Card,62,2024-02-02,CUST1478,Repeated
+TRIP100521,Gulshan,Motijheel,Cancelled,Microbus,3.6,No,5,5.21,377.59,4.9,3,Mobile Payment,34,2024-04-05,CUST1451,New
+TRIP100522,Motijheel,Dhanmondi,No-show,CNG,4.1,No,12,1.94,753.96,4.8,1,Cash,12,2024-03-18,CUST1212,Repeated
+TRIP100523,Bashundhara,Bashundhara,Completed,Car,4.6,No,9,12.45,324.11,3.5,1,Cash,19,2024-01-17,CUST1580,Repeated
+TRIP100524,Mirpur,Bashundhara,Completed,CNG,4.5,Yes,3,6.58,323.52,4.9,1,Card,60,2024-04-24,CUST1225,New
+TRIP100525,Uttara,Mohammadpur,Completed,CNG,4.7,No,5,18.69,475.44,3.0,1,Card,65,2024-04-21,CUST1545,New
+TRIP100526,Mohammadpur,Uttara,Completed,CNG,4.4,No,19,17.55,766.27,4.5,1,Cash,68,2024-05-28,CUST1624,Repeated
+TRIP100527,Mohammadpur,Mohammadpur,Completed,Bike,3.2,No,2,20.53,110.13,3.9,1,Card,76,2024-01-02,CUST1141,Repeated
+TRIP100528,Bashundhara,Mohammadpur,No-show,Microbus,4.6,No,5,12.38,182.9,4.3,1,Card,70,2024-01-06,CUST1510,Repeated
+TRIP100529,Dhanmondi,Mirpur,Completed,Car,4.2,No,14,9.29,870.06,4.9,1,Mobile Payment,9,2024-02-27,CUST1509,New
+TRIP100530,Banani,Banani,Completed,Car,3.5,No,16,5.51,941.34,4.5,1,Mobile Payment,65,2024-01-20,CUST1019,Repeated
+TRIP100531,Motijheel,Bashundhara,No-show,Microbus,3.7,No,1,2.1,845.96,3.5,1,Mobile Payment,85,2024-01-30,CUST1026,Repeated
+TRIP100532,Bashundhara,Mohammadpur,Completed,CNG,4.7,No,5,6.41,228.74,4.9,3,Card,11,2024-04-09,CUST1130,New
+TRIP100533,Dhanmondi,Dhanmondi,Completed,CNG,3.7,No,19,12.27,824.59,4.0,1,Cash,48,2024-04-28,CUST1496,Repeated
+TRIP100534,Mirpur,Banani,Completed,CNG,3.0,No,16,3.08,62.83,4.0,1,Cash,71,2024-05-17,CUST1494,Repeated
+TRIP100535,Motijheel,Mirpur,Completed,Microbus,4.4,No,18,21.37,345.3,4.6,1,Mobile Payment,83,2024-03-09,CUST1610,Repeated
+TRIP100536,Motijheel,Bashundhara,Completed,Microbus,3.5,No,17,1.56,258.72,5.0,2,Card,39,2024-04-04,CUST1332,Repeated
+TRIP100537,Uttara,Dhanmondi,Completed,Microbus,3.3,No,4,4.59,441.83,3.3,2,Cash,28,2024-04-21,CUST1595,New
+TRIP100538,Bashundhara,Uttara,Completed,CNG,4.6,Yes,8,8.35,707.71,3.2,2,Mobile Payment,42,2024-04-29,CUST1055,Repeated
+TRIP100539,Motijheel,Farmgate,Cancelled,CNG,4.7,No,16,6.73,518.75,4.8,1,Cash,88,2024-01-30,CUST1287,Repeated
+TRIP100540,Mohammadpur,Mirpur,Completed,CNG,3.2,No,5,4.85,531.32,4.1,1,Mobile Payment,9,2024-04-26,CUST1426,New
+TRIP100541,Mirpur,Uttara,Completed,Car,4.1,Yes,15,2.39,277.72,3.2,2,Cash,48,2024-05-04,CUST1244,Repeated
+TRIP100542,Motijheel,Banani,Completed,Car,3.3,No,14,3.95,728.97,3.8,3,Mobile Payment,59,2024-06-30,CUST1329,Repeated
+TRIP100543,Uttara,Gulshan,Completed,CNG,3.5,No,3,16.44,459.99,4.9,1,Card,69,2024-03-27,CUST1277,Repeated
+TRIP100544,Motijheel,Mirpur,Cancelled,Microbus,3.5,No,12,8.76,145.17,4.8,1,Cash,41,2024-04-06,CUST1380,Repeated
+TRIP100545,Mirpur,Motijheel,Completed,Car,3.5,Yes,1,2.63,573.42,4.1,1,Mobile Payment,73,2024-03-23,CUST1035,Repeated
+TRIP100546,Mohammadpur,Gulshan,Completed,CNG,4.7,No,3,19.37,93.08,3.6,2,Mobile Payment,51,2024-01-03,CUST1399,New
+TRIP100547,Uttara,Banani,Completed,CNG,3.4,No,14,7.31,167.82,3.7,1,Mobile Payment,39,2024-06-02,CUST1161,New
+TRIP100548,Bashundhara,Mohammadpur,Completed,Microbus,3.5,No,4,22.64,529.13,3.8,1,Cash,43,2024-01-25,CUST1122,Repeated
+TRIP100549,Gulshan,Bashundhara,Completed,Bike,3.0,No,3,5.09,446.03,3.8,1,Card,84,2024-02-12,CUST1562,Repeated
+TRIP100550,Banani,Bashundhara,No-show,Car,3.3,No,19,21.59,583.16,4.9,1,Card,20,2024-02-19,CUST1356,Repeated
+TRIP100551,Uttara,Banani,Completed,Car,4.7,Yes,13,11.53,518.68,3.8,3,Card,19,2024-02-11,CUST1468,Repeated
+TRIP100552,Mirpur,Mohammadpur,Completed,CNG,3.7,No,6,12.17,715.37,3.7,3,Cash,49,2024-06-28,CUST1578,New
+TRIP100553,Bashundhara,Mirpur,Completed,CNG,3.8,Yes,12,7.87,817.34,3.5,1,Cash,6,2024-06-26,CUST1661,Repeated
+TRIP100554,Farmgate,Dhanmondi,No-show,Bike,3.6,No,14,4.65,306.63,3.3,1,Card,70,2024-03-10,CUST1392,Repeated
+TRIP100555,Dhanmondi,Mohammadpur,Completed,Bike,4.2,Yes,6,5.9,577.43,4.7,1,Cash,17,2024-03-23,CUST1292,Repeated
+TRIP100556,Motijheel,Mohammadpur,Completed,CNG,3.3,No,13,17.35,832.65,4.6,1,Cash,78,2024-05-22,CUST1232,New
+TRIP100557,Bashundhara,Gulshan,Completed,Car,4.9,No,18,12.18,120.64,4.2,1,Cash,81,2024-01-14,CUST1412,Repeated
+TRIP100558,Motijheel,Uttara,Completed,Bike,3.1,No,7,10.24,701.59,4.1,1,Card,48,2024-01-23,CUST1647,New
+TRIP100559,Mohammadpur,Mohammadpur,Completed,Microbus,4.8,No,12,16.55,522.75,4.2,2,Mobile Payment,34,2024-06-12,CUST1314,Repeated
+TRIP100560,Gulshan,Farmgate,Completed,Bike,3.1,Yes,15,7.28,617.62,4.9,2,Cash,22,2024-01-01,CUST1135,New
+TRIP100561,Banani,Mirpur,Completed,Car,3.5,Yes,8,4.64,719.48,4.7,1,Cash,15,2024-05-28,CUST1403,New
+TRIP100562,Gulshan,Gulshan,Completed,Car,4.6,No,18,22.76,258.17,4.8,1,Mobile Payment,49,2024-01-03,CUST1687,New
+TRIP100563,Mohammadpur,Mohammadpur,Completed,Microbus,4.1,No,7,24.12,548.89,3.8,1,Mobile Payment,24,2024-06-15,CUST1628,New
+TRIP100564,Dhanmondi,Gulshan,Completed,Microbus,4.7,No,11,7.99,174.57,3.4,1,Card,10,2024-06-11,CUST1210,Repeated
+TRIP100565,Banani,Motijheel,Completed,Microbus,4.3,No,13,24.64,358.45,4.7,1,Cash,69,2024-02-29,CUST1059,New
+TRIP100566,Banani,Farmgate,Cancelled,CNG,4.1,No,17,7.22,580.3,4.6,1,Card,47,2024-03-13,CUST1277,Repeated
+TRIP100567,Dhanmondi,Farmgate,Cancelled,Car,4.5,No,4,21.27,378.82,3.7,4,Mobile Payment,62,2024-05-11,CUST1523,New
+TRIP100568,Farmgate,Banani,Completed,Car,4.7,No,17,13.11,74.22,3.6,2,Cash,22,2024-06-18,CUST1591,New
+TRIP100569,Banani,Farmgate,Completed,Microbus,4.8,No,10,12.09,888.88,3.7,2,Card,67,2024-05-05,CUST1642,Repeated
+TRIP100570,Gulshan,Mohammadpur,Cancelled,CNG,4.7,No,2,1.66,204.28,3.6,2,Cash,69,2024-01-30,CUST1168,Repeated
+TRIP100571,Mohammadpur,Uttara,Completed,Microbus,3.4,Yes,8,4.56,333.52,3.5,1,Cash,64,2024-06-24,CUST1133,Repeated
+TRIP100572,Farmgate,Mohammadpur,Cancelled,CNG,4.8,Yes,4,20.93,663.61,3.3,1,Mobile Payment,77,2024-06-02,CUST1093,New
+TRIP100573,Motijheel,Uttara,Completed,Bike,3.5,No,6,17.0,592.64,4.0,1,Cash,80,2024-01-29,CUST1149,Repeated
+TRIP100574,Bashundhara,Uttara,Cancelled,Car,4.9,No,3,1.72,624.86,4.4,4,Card,79,2024-03-16,CUST1244,Repeated
+TRIP100575,Uttara,Bashundhara,Completed,Bike,4.8,Yes,19,19.66,219.15,3.7,3,Card,48,2024-05-13,CUST1083,Repeated
+TRIP100576,Dhanmondi,Farmgate,Completed,Car,3.5,Yes,12,7.39,100.68,4.3,2,Mobile Payment,6,2024-01-17,CUST1400,Repeated
+TRIP100577,Mirpur,Dhanmondi,Completed,Microbus,3.2,Yes,19,23.04,369.97,3.7,1,Card,38,2024-03-13,CUST1149,Repeated
+TRIP100578,Uttara,Dhanmondi,Completed,CNG,3.0,No,15,5.63,872.75,3.8,1,Cash,51,2024-03-01,CUST1455,Repeated
+TRIP100579,Banani,Dhanmondi,Completed,Car,4.1,No,11,21.81,289.51,4.1,1,Card,5,2024-04-14,CUST1608,Repeated
+TRIP100580,Farmgate,Mirpur,Cancelled,Car,4.3,No,8,23.45,301.24,4.5,1,Cash,12,2024-02-27,CUST1457,Repeated
+TRIP100581,Gulshan,Uttara,Completed,Car,4.7,No,3,20.86,653.63,3.6,1,Mobile Payment,88,2024-01-20,CUST1049,Repeated
+TRIP100582,Mirpur,Bashundhara,Completed,Microbus,4.4,No,12,6.2,135.41,4.5,1,Card,13,2024-05-29,CUST1397,Repeated
+TRIP100583,Motijheel,Gulshan,Completed,Car,3.7,No,18,7.92,494.72,4.0,1,Cash,8,2024-02-27,CUST1235,New
+TRIP100584,Dhanmondi,Mohammadpur,Completed,Microbus,4.8,Yes,3,23.15,854.51,4.3,2,Cash,13,2024-05-25,CUST1540,New
+TRIP100585,Dhanmondi,Banani,Completed,Microbus,4.4,No,16,14.41,559.22,4.3,1,Cash,57,2024-02-20,CUST1376,New
+TRIP100586,Farmgate,Uttara,Completed,CNG,4.6,No,12,7.73,693.45,4.3,3,Card,40,2024-04-23,CUST1048,Repeated
+TRIP100587,Banani,Mirpur,Completed,Bike,4.2,Yes,2,2.75,930.09,5.0,1,Mobile Payment,41,2024-03-14,CUST1151,Repeated
+TRIP100588,Gulshan,Banani,No-show,Bike,4.6,No,11,11.46,698.81,4.1,2,Mobile Payment,8,2024-06-16,CUST1015,Repeated
+TRIP100589,Mohammadpur,Mirpur,Completed,Car,4.7,Yes,5,3.18,305.25,3.2,4,Cash,29,2024-05-18,CUST1174,New
+TRIP100590,Uttara,Banani,Completed,Car,4.9,No,7,3.54,615.58,3.8,1,Mobile Payment,73,2024-03-05,CUST1289,New
+TRIP100591,Farmgate,Mirpur,Cancelled,CNG,4.1,Yes,11,2.52,748.54,3.9,1,Card,12,2024-06-08,CUST1286,Repeated
+TRIP100592,Motijheel,Gulshan,Completed,Bike,3.1,No,16,21.41,252.24,3.8,1,Card,16,2024-04-13,CUST1261,New
+TRIP100593,Farmgate,Farmgate,Completed,CNG,4.5,No,19,15.81,966.52,3.5,1,Card,14,2024-05-29,CUST1200,Repeated
+TRIP100594,Banani,Gulshan,Completed,Microbus,3.0,No,16,3.59,753.44,4.6,1,Card,72,2024-06-13,CUST1391,New
+TRIP100595,Mirpur,Mirpur,Completed,Car,3.4,No,15,24.1,543.7,4.2,2,Cash,31,2024-05-15,CUST1110,Repeated
+TRIP100596,Mohammadpur,Banani,Completed,CNG,4.0,Yes,10,4.88,526.39,5.0,3,Mobile Payment,48,2024-04-26,CUST1252,New
+TRIP100597,Banani,Bashundhara,Completed,Car,3.1,Yes,14,16.89,571.46,3.8,1,Card,88,2024-02-01,CUST1384,New
+TRIP100598,Bashundhara,Bashundhara,Completed,Car,4.0,No,9,3.23,977.16,3.3,2,Card,69,2024-02-24,CUST1671,Repeated
+TRIP100599,Farmgate,Dhanmondi,Completed,Car,3.3,No,7,2.95,630.38,4.2,1,Mobile Payment,35,2024-02-08,CUST1114,Repeated
+TRIP100600,Farmgate,Banani,Completed,Bike,3.6,No,2,16.5,756.58,4.7,1,Mobile Payment,36,2024-03-09,CUST1062,Repeated
+TRIP100601,Farmgate,Farmgate,Completed,Car,3.2,No,7,6.62,828.16,4.8,1,Cash,48,2024-06-02,CUST1424,New
+TRIP100602,Mohammadpur,Mirpur,Cancelled,Bike,4.4,Yes,14,9.28,734.2,4.9,3,Cash,33,2024-06-17,CUST1183,Repeated
+TRIP100603,Motijheel,Dhanmondi,Completed,Microbus,3.8,No,9,23.43,890.09,3.8,2,Card,63,2024-05-14,CUST1357,New
+TRIP100604,Mirpur,Mohammadpur,Completed,CNG,4.0,No,10,13.47,188.34,3.2,2,Card,50,2024-02-23,CUST1319,Repeated
+TRIP100605,Banani,Mirpur,Completed,Bike,3.2,No,16,12.92,310.47,5.0,1,Mobile Payment,15,2024-04-10,CUST1488,Repeated
+TRIP100606,Dhanmondi,Gulshan,Completed,Microbus,3.8,Yes,17,15.95,133.78,3.7,1,Card,18,2024-05-11,CUST1338,New
+TRIP100607,Farmgate,Motijheel,Completed,Microbus,3.0,No,6,18.02,845.14,3.3,1,Card,44,2024-03-31,CUST1478,Repeated
+TRIP100608,Dhanmondi,Mohammadpur,Completed,CNG,3.6,No,8,1.44,798.74,3.9,1,Card,43,2024-05-30,CUST1355,New
+TRIP100609,Bashundhara,Dhanmondi,Completed,Car,4.0,No,18,9.09,165.26,3.7,1,Card,33,2024-05-27,CUST1126,New
+TRIP100610,Uttara,Banani,Cancelled,CNG,4.5,No,9,13.57,152.56,4.8,1,Cash,9,2024-04-30,CUST1469,Repeated
+TRIP100611,Dhanmondi,Farmgate,No-show,Bike,3.6,No,15,15.07,553.14,4.0,3,Cash,17,2024-04-08,CUST1260,Repeated
+TRIP100612,Dhanmondi,Gulshan,Completed,Bike,4.4,No,3,11.25,856.85,4.4,1,Card,83,2024-06-18,CUST1690,Repeated
+TRIP100613,Uttara,Motijheel,Completed,Microbus,3.8,No,6,3.71,736.1,3.6,1,Cash,56,2024-01-08,CUST1452,Repeated
+TRIP100614,Mirpur,Mirpur,Completed,Bike,4.3,No,7,24.38,391.59,4.1,1,Mobile Payment,88,2024-04-13,CUST1185,New
+TRIP100615,Mohammadpur,Motijheel,Completed,Car,4.9,Yes,19,11.27,593.5,4.3,1,Mobile Payment,31,2024-03-05,CUST1217,New
+TRIP100616,Motijheel,Bashundhara,Completed,CNG,4.0,Yes,8,17.76,87.03,4.6,2,Mobile Payment,23,2024-06-29,CUST1459,Repeated
+TRIP100617,Motijheel,Bashundhara,Completed,CNG,4.9,No,5,21.38,594.56,4.8,1,Card,86,2024-06-14,CUST1693,Repeated
+TRIP100618,Dhanmondi,Mirpur,Completed,Microbus,3.9,No,4,12.65,245.88,4.5,1,Mobile Payment,82,2024-04-19,CUST1184,Repeated
+TRIP100619,Uttara,Gulshan,Completed,CNG,3.3,No,4,21.8,673.33,3.0,3,Mobile Payment,70,2024-05-06,CUST1142,Repeated
+TRIP100620,Farmgate,Farmgate,Cancelled,CNG,3.7,Yes,19,8.64,157.88,4.4,3,Mobile Payment,52,2024-04-01,CUST1341,Repeated
+TRIP100621,Motijheel,Gulshan,Completed,Bike,3.1,No,7,4.78,290.07,3.1,3,Card,71,2024-04-21,CUST1257,Repeated
+TRIP100622,Banani,Uttara,Completed,Microbus,3.2,No,9,11.6,454.84,4.0,2,Mobile Payment,18,2024-05-31,CUST1585,Repeated
+TRIP100623,Uttara,Farmgate,Completed,CNG,3.2,Yes,6,21.05,698.27,3.4,3,Mobile Payment,71,2024-03-22,CUST1110,Repeated
+TRIP100624,Banani,Bashundhara,Completed,CNG,3.3,No,1,15.47,137.28,4.1,2,Mobile Payment,6,2024-04-24,CUST1027,Repeated
+TRIP100625,Mirpur,Farmgate,Completed,Car,4.7,No,2,12.46,383.81,4.4,1,Cash,76,2024-03-19,CUST1000,New
+TRIP100626,Dhanmondi,Uttara,Completed,Bike,4.6,No,11,15.92,367.27,3.4,1,Cash,58,2024-01-10,CUST1464,Repeated
+TRIP100627,Uttara,Motijheel,Completed,Bike,4.8,Yes,10,5.87,164.38,4.6,1,Cash,17,2024-03-30,CUST1456,Repeated
+TRIP100628,Farmgate,Mirpur,Completed,CNG,4.7,Yes,19,10.58,760.56,4.0,1,Cash,73,2024-02-18,CUST1681,New
+TRIP100629,Mirpur,Mirpur,Completed,Car,3.3,No,16,16.39,800.5,4.7,1,Mobile Payment,59,2024-05-16,CUST1286,Repeated
+TRIP100630,Banani,Motijheel,Completed,CNG,3.3,Yes,4,23.49,804.24,3.4,2,Mobile Payment,48,2024-02-16,CUST1468,Repeated
+TRIP100631,Banani,Bashundhara,Completed,Microbus,3.8,No,14,4.99,228.11,3.4,1,Cash,73,2024-05-13,CUST1212,Repeated
+TRIP100632,Farmgate,Mohammadpur,Completed,Car,3.8,No,10,17.19,979.69,4.8,1,Card,31,2024-06-28,CUST1404,New
+TRIP100633,Uttara,Motijheel,Cancelled,Microbus,3.5,No,11,20.89,813.02,4.2,4,Mobile Payment,54,2024-03-15,CUST1563,New
+TRIP100634,Bashundhara,Banani,Completed,Bike,4.5,No,15,16.37,385.05,3.9,1,Card,9,2024-04-09,CUST1179,New
+TRIP100635,Mirpur,Mirpur,Completed,CNG,4.4,No,6,2.55,923.14,4.4,2,Mobile Payment,20,2024-01-22,CUST1311,New
+TRIP100636,Bashundhara,Mirpur,Completed,Bike,3.3,No,2,9.35,533.65,4.6,2,Mobile Payment,49,2024-05-26,CUST1343,Repeated
+TRIP100637,Motijheel,Uttara,Cancelled,CNG,4.8,No,19,4.66,70.83,3.1,2,Mobile Payment,16,2024-02-18,CUST1208,New
+TRIP100638,Motijheel,Gulshan,Completed,Bike,4.9,No,3,22.76,976.27,3.5,1,Mobile Payment,52,2024-06-14,CUST1033,New
+TRIP100639,Gulshan,Farmgate,Completed,CNG,4.6,Yes,1,17.5,948.82,3.4,2,Card,45,2024-03-28,CUST1275,Repeated
+TRIP100640,Dhanmondi,Dhanmondi,Completed,Car,3.3,Yes,19,10.69,566.86,3.2,1,Cash,71,2024-05-08,CUST1284,Repeated
+TRIP100641,Farmgate,Bashundhara,Completed,Bike,3.1,No,18,23.65,120.93,4.7,2,Mobile Payment,65,2024-06-03,CUST1191,Repeated
+TRIP100642,Banani,Uttara,Cancelled,Car,3.5,No,13,20.46,617.93,3.6,1,Mobile Payment,37,2024-05-07,CUST1577,Repeated
+TRIP100643,Dhanmondi,Gulshan,Completed,Microbus,3.7,No,9,24.52,630.72,3.9,1,Card,79,2024-05-16,CUST1425,Repeated
+TRIP100644,Banani,Motijheel,Completed,Car,3.9,No,15,4.15,80.07,4.0,1,Cash,32,2024-01-17,CUST1312,Repeated
+TRIP100645,Gulshan,Uttara,Completed,Bike,3.7,Yes,5,4.96,325.5,3.2,1,Cash,68,2024-06-23,CUST1346,New
+TRIP100646,Mohammadpur,Gulshan,Cancelled,CNG,4.3,Yes,19,11.35,850.4,3.3,1,Mobile Payment,59,2024-05-13,CUST1080,Repeated
+TRIP100647,Dhanmondi,Motijheel,No-show,Microbus,3.0,No,12,18.2,533.24,4.7,4,Card,55,2024-02-06,CUST1697,Repeated
+TRIP100648,Bashundhara,Farmgate,Completed,CNG,4.6,Yes,16,17.44,353.67,4.2,2,Card,29,2024-05-07,CUST1643,New
+TRIP100649,Mohammadpur,Mohammadpur,Completed,CNG,3.5,Yes,17,14.64,281.13,3.8,2,Mobile Payment,75,2024-02-01,CUST1039,New
+TRIP100650,Motijheel,Mohammadpur,No-show,Microbus,3.4,Yes,3,15.49,961.01,3.9,2,Mobile Payment,75,2024-01-11,CUST1259,Repeated
+TRIP100651,Banani,Motijheel,Completed,Microbus,3.2,No,16,16.7,261.89,3.5,1,Cash,35,2024-06-20,CUST1329,Repeated
+TRIP100652,Farmgate,Motijheel,Cancelled,Microbus,4.5,Yes,17,19.82,317.58,3.7,3,Mobile Payment,46,2024-06-14,CUST1172,New
+TRIP100653,Uttara,Banani,Completed,Bike,4.5,Yes,2,24.84,904.83,4.8,3,Mobile Payment,79,2024-02-22,CUST1638,New
+TRIP100654,Bashundhara,Mirpur,Cancelled,Bike,4.4,No,4,9.83,840.0,3.0,1,Mobile Payment,9,2024-05-02,CUST1641,New
+TRIP100655,Farmgate,Mohammadpur,Cancelled,CNG,4.8,Yes,12,12.17,786.31,4.8,2,Mobile Payment,25,2024-02-25,CUST1400,Repeated
+TRIP100656,Dhanmondi,Mohammadpur,Cancelled,Car,4.5,No,11,21.6,524.39,3.9,1,Mobile Payment,70,2024-01-06,CUST1264,Repeated
+TRIP100657,Uttara,Mirpur,No-show,Microbus,3.4,No,8,10.43,980.72,3.0,1,Cash,28,2024-06-03,CUST1209,New
+TRIP100658,Farmgate,Motijheel,Completed,Microbus,4.7,No,4,5.0,252.44,3.2,2,Card,31,2024-01-22,CUST1362,New
+TRIP100659,Mohammadpur,Mirpur,Completed,Bike,3.0,No,13,21.82,542.67,3.9,2,Cash,57,2024-01-10,CUST1375,Repeated
+TRIP100660,Bashundhara,Mirpur,Completed,CNG,4.9,No,18,21.86,711.74,4.7,2,Mobile Payment,53,2024-06-12,CUST1504,Repeated
+TRIP100661,Uttara,Banani,Completed,Car,3.9,No,19,3.71,71.69,4.9,1,Cash,35,2024-05-20,CUST1454,New
+TRIP100662,Mirpur,Mohammadpur,Completed,Bike,5.0,No,1,5.31,172.7,3.4,1,Cash,24,2024-06-18,CUST1452,Repeated
+TRIP100663,Bashundhara,Banani,Completed,Car,3.1,Yes,17,18.67,403.6,4.5,1,Mobile Payment,66,2024-04-05,CUST1184,Repeated
+TRIP100664,Uttara,Motijheel,Completed,Microbus,3.5,No,3,15.41,109.2,4.3,2,Card,38,2024-03-30,CUST1411,Repeated
+TRIP100665,Motijheel,Farmgate,Completed,Bike,3.8,No,4,1.48,423.9,3.3,4,Cash,19,2024-02-13,CUST1667,New
+TRIP100666,Banani,Bashundhara,Completed,CNG,4.6,Yes,1,4.33,61.75,3.5,1,Cash,8,2024-01-09,CUST1471,Repeated
+TRIP100667,Banani,Dhanmondi,No-show,Bike,3.1,Yes,5,10.72,139.9,3.2,2,Card,83,2024-03-25,CUST1455,Repeated
+TRIP100668,Mohammadpur,Motijheel,Completed,Car,3.6,Yes,2,17.73,710.59,4.8,3,Cash,43,2024-01-27,CUST1610,Repeated
+TRIP100669,Farmgate,Banani,Completed,Microbus,3.8,No,17,21.63,681.39,4.8,2,Card,78,2024-03-03,CUST1694,Repeated
+TRIP100670,Dhanmondi,Farmgate,Completed,Bike,3.6,No,11,19.59,239.33,4.6,2,Mobile Payment,88,2024-06-30,CUST1147,Repeated
+TRIP100671,Motijheel,Mohammadpur,Completed,CNG,3.6,No,10,21.04,319.75,3.0,2,Card,61,2024-05-18,CUST1078,Repeated
+TRIP100672,Bashundhara,Bashundhara,Completed,Microbus,4.8,Yes,2,8.31,422.28,3.8,4,Mobile Payment,32,2024-06-18,CUST1082,Repeated
+TRIP100673,Banani,Bashundhara,Completed,Car,3.7,No,19,18.64,70.38,3.1,1,Mobile Payment,59,2024-01-02,CUST1216,Repeated
+TRIP100674,Bashundhara,Motijheel,Cancelled,Bike,3.9,No,7,20.71,311.43,3.9,3,Cash,21,2024-05-22,CUST1170,Repeated
+TRIP100675,Mohammadpur,Motijheel,Completed,Car,4.3,Yes,6,15.08,895.16,3.5,1,Cash,20,2024-06-12,CUST1269,Repeated
+TRIP100676,Mohammadpur,Mohammadpur,Completed,Microbus,3.9,No,4,10.63,436.65,3.6,2,Cash,76,2024-02-10,CUST1170,Repeated
+TRIP100677,Bashundhara,Gulshan,Completed,CNG,3.7,No,10,11.77,363.54,3.3,1,Card,15,2024-05-21,CUST1475,Repeated
+TRIP100678,Gulshan,Banani,Completed,Bike,4.3,No,3,19.1,678.12,3.9,1,Card,44,2024-04-26,CUST1023,Repeated
+TRIP100679,Mohammadpur,Banani,Completed,Car,3.5,No,5,19.7,761.67,3.2,1,Mobile Payment,52,2024-03-07,CUST1444,New
+TRIP100680,Motijheel,Farmgate,Completed,Bike,4.5,No,9,8.61,738.15,4.5,1,Cash,77,2024-04-05,CUST1015,Repeated
+TRIP100681,Mohammadpur,Farmgate,Completed,CNG,3.1,Yes,14,17.56,169.08,4.8,1,Mobile Payment,25,2024-06-03,CUST1140,Repeated
+TRIP100682,Gulshan,Mirpur,Completed,CNG,4.6,No,3,6.83,758.61,3.3,1,Mobile Payment,88,2024-02-02,CUST1080,Repeated
+TRIP100683,Banani,Dhanmondi,Completed,Microbus,4.9,No,10,10.5,422.36,4.1,2,Cash,26,2024-03-09,CUST1016,New
+TRIP100684,Mohammadpur,Mirpur,Completed,CNG,3.3,No,11,10.01,886.33,4.3,2,Mobile Payment,60,2024-03-21,CUST1564,Repeated
+TRIP100685,Mohammadpur,Gulshan,Completed,Car,4.9,No,10,6.72,98.13,3.2,1,Cash,58,2024-06-19,CUST1342,Repeated
+TRIP100686,Banani,Bashundhara,Completed,Microbus,4.1,No,16,9.23,518.56,3.0,1,Card,65,2024-01-16,CUST1297,Repeated
+TRIP100687,Dhanmondi,Uttara,Completed,Microbus,4.3,Yes,11,15.51,506.67,3.2,3,Mobile Payment,62,2024-02-25,CUST1561,Repeated
+TRIP100688,Motijheel,Dhanmondi,Completed,CNG,3.5,No,11,13.2,160.88,4.7,2,Mobile Payment,77,2024-01-07,CUST1043,New
+TRIP100689,Uttara,Banani,No-show,Bike,4.3,No,15,13.86,500.34,4.1,3,Card,77,2024-03-15,CUST1156,Repeated
+TRIP100690,Uttara,Mohammadpur,Completed,Bike,3.9,No,12,17.6,768.91,3.7,4,Cash,27,2024-04-23,CUST1343,Repeated
+TRIP100691,Uttara,Uttara,Completed,Bike,4.6,No,9,11.56,956.28,4.0,2,Cash,27,2024-06-01,CUST1411,Repeated
+TRIP100692,Bashundhara,Bashundhara,Completed,CNG,3.4,Yes,8,24.62,747.89,4.4,1,Mobile Payment,57,2024-04-30,CUST1212,Repeated
+TRIP100693,Banani,Uttara,Completed,Bike,4.3,Yes,18,13.65,770.02,4.1,1,Card,11,2024-05-12,CUST1431,Repeated
+TRIP100694,Mohammadpur,Dhanmondi,Completed,Bike,4.0,No,5,3.92,81.48,4.6,3,Mobile Payment,44,2024-04-29,CUST1649,Repeated
+TRIP100695,Gulshan,Dhanmondi,Completed,Car,4.5,No,13,16.58,298.93,4.1,2,Mobile Payment,60,2024-06-03,CUST1211,Repeated
+TRIP100696,Mohammadpur,Motijheel,Completed,CNG,3.0,No,4,5.1,372.54,4.8,1,Card,51,2024-01-29,CUST1685,Repeated
+TRIP100697,Motijheel,Motijheel,Completed,CNG,4.1,Yes,1,24.96,271.86,4.8,3,Card,56,2024-03-14,CUST1418,Repeated
+TRIP100698,Bashundhara,Mohammadpur,Completed,Bike,4.8,No,10,14.12,882.93,3.8,2,Mobile Payment,47,2024-01-15,CUST1351,Repeated
+TRIP100699,Bashundhara,Uttara,Completed,Bike,4.6,No,7,15.41,793.12,5.0,1,Cash,15,2024-01-29,CUST1524,Repeated
+TRIP100700,Gulshan,Uttara,Completed,Bike,3.5,No,11,23.93,967.12,4.5,3,Card,73,2024-02-20,CUST1421,Repeated
+TRIP100701,Dhanmondi,Farmgate,Cancelled,CNG,5.0,No,2,13.31,274.91,4.1,1,Mobile Payment,10,2024-01-25,CUST1439,New
+TRIP100702,Uttara,Banani,Completed,Bike,3.6,No,19,16.33,621.57,3.4,1,Card,22,2024-04-19,CUST1648,New
+TRIP100703,Mohammadpur,Mohammadpur,Completed,Bike,3.4,No,15,18.57,939.84,4.9,1,Card,19,2024-04-11,CUST1572,Repeated
+TRIP100704,Mirpur,Gulshan,Completed,Bike,3.7,Yes,13,1.83,55.07,3.2,1,Cash,7,2024-05-06,CUST1373,New
+TRIP100705,Banani,Mohammadpur,Completed,Microbus,3.1,Yes,18,1.49,348.99,3.1,1,Card,41,2024-04-15,CUST1301,Repeated
+TRIP100706,Banani,Bashundhara,Completed,CNG,4.2,No,1,2.69,555.71,4.6,1,Card,71,2024-04-08,CUST1642,Repeated
+TRIP100707,Gulshan,Banani,Completed,Car,4.0,Yes,11,24.11,527.66,4.3,1,Card,85,2024-05-13,CUST1142,Repeated
+TRIP100708,Gulshan,Gulshan,Completed,Bike,4.6,No,10,20.0,443.66,3.8,4,Card,21,2024-04-21,CUST1510,Repeated
+TRIP100709,Mirpur,Uttara,Completed,Microbus,3.4,Yes,6,19.91,635.0,4.1,1,Mobile Payment,81,2024-02-27,CUST1386,Repeated
+TRIP100710,Mirpur,Banani,Completed,Microbus,3.7,No,14,4.71,156.74,3.7,1,Card,55,2024-02-24,CUST1561,Repeated
+TRIP100711,Farmgate,Bashundhara,Completed,Bike,4.1,No,18,23.97,220.02,3.3,2,Cash,24,2024-05-05,CUST1608,Repeated
+TRIP100712,Mohammadpur,Dhanmondi,Completed,CNG,3.3,No,17,16.16,589.42,4.5,1,Mobile Payment,13,2024-01-07,CUST1163,New
+TRIP100713,Mohammadpur,Motijheel,Completed,Microbus,4.7,Yes,5,13.73,186.76,3.7,1,Mobile Payment,76,2024-01-21,CUST1110,Repeated
+TRIP100714,Motijheel,Banani,Cancelled,CNG,3.8,No,7,12.55,494.93,3.7,1,Card,17,2024-04-08,CUST1429,New
+TRIP100715,Gulshan,Gulshan,Completed,Car,4.6,No,3,1.6,504.99,3.5,1,Cash,71,2024-06-21,CUST1582,Repeated
+TRIP100716,Bashundhara,Mirpur,Completed,Car,3.9,No,19,6.92,457.52,4.1,2,Mobile Payment,26,2024-05-22,CUST1675,Repeated
+TRIP100717,Farmgate,Farmgate,Completed,Bike,3.6,Yes,11,11.22,179.9,4.5,1,Card,82,2024-02-23,CUST1517,Repeated
+TRIP100718,Uttara,Uttara,No-show,Microbus,5.0,Yes,19,20.01,914.97,3.1,1,Mobile Payment,55,2024-01-17,CUST1205,Repeated
+TRIP100719,Mohammadpur,Motijheel,Cancelled,Bike,4.6,No,2,6.94,751.37,3.3,1,Mobile Payment,11,2024-05-06,CUST1308,Repeated
+TRIP100720,Motijheel,Mohammadpur,Completed,Microbus,4.7,No,11,24.55,739.07,3.4,1,Mobile Payment,30,2024-04-21,CUST1202,New
+TRIP100721,Mirpur,Farmgate,Completed,Car,3.8,Yes,5,20.94,78.39,3.6,1,Cash,54,2024-01-16,CUST1441,Repeated
+TRIP100722,Motijheel,Gulshan,Completed,CNG,4.0,No,15,20.4,159.17,4.9,2,Cash,85,2024-01-30,CUST1026,Repeated
+TRIP100723,Uttara,Bashundhara,Completed,Microbus,3.2,No,4,23.79,762.82,3.6,1,Mobile Payment,6,2024-01-23,CUST1546,Repeated
+TRIP100724,Banani,Bashundhara,Cancelled,CNG,4.2,No,8,20.19,242.93,3.7,1,Card,31,2024-05-18,CUST1588,Repeated
+TRIP100725,Bashundhara,Mirpur,Completed,CNG,3.5,No,2,23.92,653.56,4.5,2,Card,61,2024-06-11,CUST1679,Repeated
+TRIP100726,Motijheel,Banani,Completed,Bike,3.6,No,17,12.88,277.71,3.4,2,Mobile Payment,82,2024-03-02,CUST1453,Repeated
+TRIP100727,Dhanmondi,Dhanmondi,Completed,Microbus,4.6,Yes,9,7.29,273.97,4.8,2,Card,85,2024-06-13,CUST1351,Repeated
+TRIP100728,Mohammadpur,Farmgate,Completed,Microbus,4.5,Yes,1,4.65,923.47,4.3,1,Cash,24,2024-06-01,CUST1284,Repeated
+TRIP100729,Dhanmondi,Dhanmondi,Completed,Bike,4.0,No,3,8.47,589.47,3.5,3,Mobile Payment,86,2024-04-20,CUST1562,Repeated
+TRIP100730,Banani,Farmgate,Completed,Microbus,4.5,No,6,13.07,330.29,3.9,2,Mobile Payment,87,2024-05-11,CUST1308,Repeated
+TRIP100731,Mohammadpur,Banani,Completed,Bike,4.2,No,5,22.46,961.19,4.7,1,Card,44,2024-01-17,CUST1060,Repeated
+TRIP100732,Banani,Motijheel,Completed,Microbus,4.7,No,5,9.83,655.44,3.9,1,Mobile Payment,53,2024-04-28,CUST1585,Repeated
+TRIP100733,Mirpur,Banani,Completed,Car,4.0,No,19,5.7,365.55,4.7,1,Cash,16,2024-05-31,CUST1587,Repeated
+TRIP100734,Gulshan,Farmgate,Completed,Microbus,3.0,No,12,3.67,597.82,3.3,1,Mobile Payment,44,2024-05-08,CUST1695,Repeated
+TRIP100735,Mirpur,Farmgate,Completed,Bike,3.1,Yes,11,13.12,518.61,4.5,2,Cash,40,2024-05-01,CUST1147,Repeated
+TRIP100736,Gulshan,Mohammadpur,Completed,CNG,4.3,No,15,22.02,765.31,4.1,1,Card,6,2024-01-27,CUST1211,Repeated
+TRIP100737,Bashundhara,Banani,Completed,Microbus,4.2,No,18,24.68,587.83,3.8,1,Card,18,2024-03-13,CUST1099,Repeated
+TRIP100738,Uttara,Dhanmondi,Completed,Car,3.1,No,8,16.82,552.71,4.0,4,Cash,86,2024-02-25,CUST1428,Repeated
+TRIP100739,Mohammadpur,Motijheel,Completed,Car,4.7,No,9,3.6,764.26,4.5,1,Card,61,2024-01-07,CUST1561,Repeated
+TRIP100740,Mohammadpur,Dhanmondi,Completed,Microbus,4.6,No,12,16.99,432.4,4.6,1,Mobile Payment,62,2024-02-24,CUST1022,Repeated
+TRIP100741,Bashundhara,Bashundhara,Completed,Bike,3.6,Yes,19,2.78,272.02,3.4,1,Card,25,2024-06-24,CUST1366,Repeated
+TRIP100742,Banani,Gulshan,Completed,Microbus,3.2,No,6,6.2,187.38,4.1,4,Card,26,2024-05-29,CUST1245,Repeated
+TRIP100743,Farmgate,Mirpur,Completed,CNG,3.9,No,6,12.82,954.31,3.2,1,Card,23,2024-06-12,CUST1624,Repeated
+TRIP100744,Farmgate,Farmgate,Completed,CNG,3.9,Yes,5,12.53,388.59,4.6,1,Cash,74,2024-05-20,CUST1481,New
+TRIP100745,Gulshan,Mirpur,Completed,Car,3.9,No,4,18.73,190.04,5.0,3,Card,53,2024-01-29,CUST1420,New
+TRIP100746,Farmgate,Mohammadpur,Completed,Microbus,3.0,Yes,8,3.3,631.78,3.5,1,Mobile Payment,12,2024-03-28,CUST1513,Repeated
+TRIP100747,Bashundhara,Motijheel,No-show,CNG,4.8,No,2,13.25,407.33,3.3,1,Mobile Payment,81,2024-06-28,CUST1522,New
+TRIP100748,Farmgate,Mirpur,Completed,Microbus,3.8,No,11,4.52,511.04,4.1,2,Card,41,2024-01-05,CUST1514,New
+TRIP100749,Uttara,Motijheel,Completed,CNG,3.6,Yes,18,6.98,69.28,4.9,1,Mobile Payment,6,2024-01-22,CUST1053,Repeated
+TRIP100750,Bashundhara,Mohammadpur,Cancelled,Bike,3.5,No,1,4.95,158.1,3.0,1,Mobile Payment,83,2024-06-02,CUST1559,Repeated
+TRIP100751,Mohammadpur,Mirpur,Completed,Microbus,3.5,No,8,2.62,846.72,3.2,1,Mobile Payment,8,2024-01-31,CUST1370,Repeated
+TRIP100752,Banani,Motijheel,Completed,Bike,4.8,No,4,16.59,760.29,4.2,2,Cash,32,2024-03-01,CUST1041,Repeated
+TRIP100753,Mohammadpur,Dhanmondi,Completed,Bike,4.4,Yes,16,2.04,860.88,4.3,2,Mobile Payment,36,2024-02-25,CUST1375,Repeated
+TRIP100754,Gulshan,Farmgate,Completed,Microbus,4.1,No,16,8.48,632.48,4.1,3,Cash,54,2024-06-02,CUST1371,Repeated
+TRIP100755,Banani,Dhanmondi,Completed,CNG,3.2,No,9,23.97,798.22,4.7,1,Mobile Payment,61,2024-06-01,CUST1030,New
+TRIP100756,Farmgate,Motijheel,Completed,Microbus,4.6,No,1,9.71,664.05,3.4,1,Mobile Payment,69,2024-06-24,CUST1287,Repeated
+TRIP100757,Farmgate,Dhanmondi,Cancelled,Bike,4.3,Yes,18,15.52,535.47,4.4,1,Cash,23,2024-03-27,CUST1278,Repeated
+TRIP100758,Motijheel,Bashundhara,Completed,Microbus,4.0,No,2,14.6,993.4,4.7,3,Mobile Payment,60,2024-02-22,CUST1321,New
+TRIP100759,Dhanmondi,Dhanmondi,Cancelled,CNG,3.1,Yes,6,5.09,636.42,3.9,2,Cash,17,2024-01-23,CUST1086,Repeated
+TRIP100760,Banani,Dhanmondi,Completed,CNG,4.1,Yes,13,24.15,670.73,4.4,1,Cash,13,2024-06-02,CUST1508,Repeated
+TRIP100761,Gulshan,Farmgate,Completed,Car,3.0,No,13,16.43,194.27,3.4,1,Cash,64,2024-04-05,CUST1612,Repeated
+TRIP100762,Mirpur,Banani,Completed,CNG,4.3,Yes,17,18.64,377.72,4.9,2,Card,24,2024-02-13,CUST1604,Repeated
+TRIP100763,Motijheel,Gulshan,Completed,CNG,3.2,No,11,6.11,409.83,4.1,2,Cash,64,2024-01-14,CUST1111,New
+TRIP100764,Dhanmondi,Mirpur,Completed,Microbus,4.4,No,12,24.62,835.58,3.2,1,Mobile Payment,17,2024-06-25,CUST1229,Repeated
+TRIP100765,Uttara,Farmgate,Completed,Bike,3.5,No,3,6.64,350.64,4.7,3,Mobile Payment,63,2024-05-11,CUST1405,New
+TRIP100766,Mirpur,Farmgate,Completed,CNG,4.9,No,5,10.33,657.62,4.8,1,Card,65,2024-06-15,CUST1333,Repeated
+TRIP100767,Farmgate,Motijheel,Completed,Bike,3.8,No,2,13.35,888.54,3.8,2,Mobile Payment,56,2024-01-30,CUST1660,Repeated
+TRIP100768,Dhanmondi,Mohammadpur,Completed,Bike,4.1,Yes,6,24.66,294.15,3.1,1,Card,29,2024-02-28,CUST1411,Repeated
+TRIP100769,Uttara,Dhanmondi,Completed,Bike,4.1,Yes,6,5.49,199.21,3.2,1,Cash,49,2024-03-03,CUST1453,Repeated
+TRIP100770,Motijheel,Gulshan,Completed,Car,4.8,No,5,14.67,774.16,3.6,1,Card,51,2024-04-20,CUST1218,Repeated
+TRIP100771,Dhanmondi,Uttara,Completed,CNG,3.8,No,7,24.9,250.06,4.0,1,Card,82,2024-05-07,CUST1369,New
+TRIP100772,Bashundhara,Mirpur,Completed,Bike,4.3,Yes,2,9.48,680.42,3.4,2,Mobile Payment,68,2024-05-18,CUST1613,Repeated
+TRIP100773,Motijheel,Banani,Completed,Microbus,4.8,No,18,7.21,373.1,5.0,4,Mobile Payment,5,2024-01-08,CUST1250,Repeated
+TRIP100774,Bashundhara,Uttara,Completed,Car,4.4,No,19,11.94,93.57,4.2,1,Cash,42,2024-03-22,CUST1411,Repeated
+TRIP100775,Banani,Farmgate,Completed,Car,4.5,No,18,3.01,413.66,3.1,2,Cash,57,2024-01-06,CUST1142,Repeated
+TRIP100776,Mirpur,Uttara,Completed,CNG,3.5,No,11,22.0,523.85,4.5,1,Cash,52,2024-04-28,CUST1181,Repeated
+TRIP100777,Motijheel,Uttara,Completed,Bike,4.3,No,3,11.72,710.93,4.5,4,Card,66,2024-06-29,CUST1616,Repeated
+TRIP100778,Mirpur,Mohammadpur,Cancelled,Bike,3.5,No,9,14.5,119.84,3.3,2,Mobile Payment,28,2024-01-25,CUST1468,Repeated
+TRIP100779,Motijheel,Banani,Completed,CNG,4.7,No,10,7.75,489.98,4.7,1,Mobile Payment,23,2024-03-11,CUST1486,New
+TRIP100780,Bashundhara,Dhanmondi,Completed,CNG,4.0,No,2,10.87,475.83,4.9,2,Mobile Payment,11,2024-06-13,CUST1006,Repeated
+TRIP100781,Dhanmondi,Gulshan,Completed,Bike,3.4,No,3,12.23,516.92,3.6,2,Mobile Payment,13,2024-04-29,CUST1358,Repeated
+TRIP100782,Motijheel,Mirpur,Completed,Microbus,4.9,No,8,17.85,499.46,3.3,3,Mobile Payment,61,2024-06-16,CUST1017,Repeated
+TRIP100783,Banani,Mirpur,Cancelled,Car,3.8,No,17,11.09,772.34,4.9,1,Cash,16,2024-03-09,CUST1413,New
+TRIP100784,Dhanmondi,Mirpur,Cancelled,Bike,4.3,Yes,3,19.52,438.88,3.1,3,Mobile Payment,53,2024-01-19,CUST1298,Repeated
+TRIP100785,Mohammadpur,Uttara,Completed,Microbus,4.8,No,14,14.73,153.54,4.3,1,Cash,7,2024-03-09,CUST1438,Repeated
+TRIP100786,Uttara,Motijheel,Completed,Bike,4.9,No,13,13.06,774.68,3.9,4,Mobile Payment,58,2024-04-24,CUST1055,Repeated
+TRIP100787,Dhanmondi,Banani,Cancelled,Microbus,3.7,Yes,14,6.64,869.71,4.2,1,Mobile Payment,71,2024-02-11,CUST1539,New
+TRIP100788,Banani,Dhanmondi,Completed,Car,5.0,Yes,8,16.78,728.51,3.7,1,Mobile Payment,35,2024-03-13,CUST1168,Repeated
+TRIP100789,Banani,Motijheel,Completed,CNG,3.8,Yes,1,1.49,146.54,4.0,2,Mobile Payment,22,2024-06-03,CUST1133,Repeated
+TRIP100790,Mirpur,Bashundhara,Cancelled,Bike,3.8,No,5,4.42,541.71,4.7,1,Card,38,2024-03-08,CUST1682,Repeated
+TRIP100791,Dhanmondi,Dhanmondi,Cancelled,Microbus,3.6,No,18,5.59,818.49,3.1,1,Cash,44,2024-04-25,CUST1292,Repeated
+TRIP100792,Mirpur,Banani,Completed,Bike,4.5,No,7,19.84,316.05,3.3,1,Cash,66,2024-05-24,CUST1598,Repeated
+TRIP100793,Bashundhara,Dhanmondi,Completed,Bike,4.6,No,14,20.58,383.65,4.8,3,Cash,61,2024-01-02,CUST1323,Repeated
+TRIP100794,Motijheel,Motijheel,Completed,CNG,4.4,No,17,15.54,379.52,4.3,1,Mobile Payment,28,2024-02-09,CUST1561,Repeated
+TRIP100795,Mohammadpur,Uttara,No-show,Car,3.6,No,14,2.58,567.1,4.1,1,Card,57,2024-03-17,CUST1184,Repeated
+TRIP100796,Motijheel,Motijheel,Cancelled,CNG,4.8,No,10,19.27,254.28,5.0,2,Card,84,2024-05-19,CUST1536,Repeated
+TRIP100797,Uttara,Uttara,Completed,Microbus,3.3,No,1,5.55,357.1,3.8,2,Card,43,2024-04-15,CUST1210,Repeated
+TRIP100798,Bashundhara,Farmgate,Completed,Bike,4.5,Yes,8,12.34,469.18,5.0,2,Mobile Payment,59,2024-02-12,CUST1277,Repeated
+TRIP100799,Mohammadpur,Gulshan,No-show,Microbus,4.4,Yes,1,18.11,566.27,4.6,4,Card,87,2024-01-10,CUST1245,Repeated
+TRIP100800,Banani,Bashundhara,Completed,Bike,3.4,No,10,22.01,858.5,4.5,1,Cash,56,2024-05-25,CUST1602,Repeated
+TRIP100801,Gulshan,Uttara,Completed,CNG,4.4,Yes,2,5.5,366.14,4.0,2,Cash,8,2024-05-31,CUST1549,Repeated
+TRIP100802,Banani,Banani,Completed,Microbus,4.2,No,2,23.37,996.36,3.8,2,Cash,61,2024-02-20,CUST1629,Repeated
+TRIP100803,Banani,Mohammadpur,Cancelled,Car,3.6,Yes,1,11.91,882.06,3.5,1,Cash,57,2024-01-17,CUST1315,New
+TRIP100804,Mohammadpur,Gulshan,Completed,Bike,4.3,No,8,10.15,220.23,3.4,1,Cash,67,2024-05-13,CUST1089,Repeated
+TRIP100805,Uttara,Mirpur,Completed,Microbus,5.0,Yes,13,10.97,888.44,4.1,2,Cash,34,2024-06-07,CUST1257,Repeated
+TRIP100806,Motijheel,Mirpur,Completed,Microbus,3.8,No,16,10.36,658.9,3.6,2,Cash,6,2024-05-20,CUST1002,Repeated
+TRIP100807,Farmgate,Banani,Cancelled,CNG,3.2,Yes,7,6.83,597.4,3.8,2,Mobile Payment,19,2024-04-17,CUST1642,Repeated
+TRIP100808,Mirpur,Bashundhara,Completed,CNG,3.0,Yes,17,23.02,574.17,3.1,1,Card,57,2024-03-23,CUST1200,Repeated
+TRIP100809,Banani,Mohammadpur,Completed,Car,4.0,Yes,2,18.08,386.35,3.9,2,Card,66,2024-03-23,CUST1565,Repeated
+TRIP100810,Bashundhara,Motijheel,Cancelled,Bike,5.0,No,19,10.17,110.49,4.2,2,Cash,70,2024-02-21,CUST1566,New
+TRIP100811,Bashundhara,Motijheel,Completed,Bike,3.2,No,2,21.16,428.8,3.8,1,Cash,42,2024-03-01,CUST1693,Repeated
+TRIP100812,Banani,Motijheel,Completed,Bike,4.2,No,8,22.03,606.66,3.1,1,Mobile Payment,59,2024-04-10,CUST1455,Repeated
+TRIP100813,Gulshan,Mohammadpur,Completed,Bike,4.1,Yes,2,20.07,102.48,4.8,2,Card,14,2024-04-27,CUST1349,Repeated
+TRIP100814,Mirpur,Dhanmondi,Cancelled,Microbus,4.4,No,3,18.74,243.58,3.0,4,Cash,85,2024-04-11,CUST1468,Repeated
+TRIP100815,Gulshan,Mohammadpur,Completed,Car,4.5,Yes,16,12.08,65.33,4.1,1,Card,86,2024-03-18,CUST1051,New
+TRIP100816,Mohammadpur,Motijheel,Completed,Car,3.7,No,8,24.53,880.48,4.0,4,Cash,64,2024-03-08,CUST1582,Repeated
+TRIP100817,Gulshan,Banani,Completed,Microbus,4.8,No,5,14.06,952.36,4.3,1,Mobile Payment,42,2024-03-17,CUST1019,Repeated
+TRIP100818,Motijheel,Mirpur,Completed,Microbus,4.3,Yes,15,24.29,219.57,4.9,2,Card,79,2024-02-07,CUST1496,Repeated
+TRIP100819,Banani,Mirpur,Completed,Car,5.0,No,10,16.11,244.3,4.7,1,Card,73,2024-03-21,CUST1272,Repeated
+TRIP100820,Mohammadpur,Motijheel,Completed,CNG,4.6,Yes,15,18.46,615.84,3.4,1,Mobile Payment,35,2024-02-07,CUST1325,New
+TRIP100821,Mohammadpur,Farmgate,Completed,CNG,3.5,No,10,18.08,850.89,4.6,1,Card,30,2024-01-16,CUST1654,Repeated
+TRIP100822,Mirpur,Mohammadpur,Completed,Bike,3.4,No,17,7.2,61.67,3.9,2,Card,45,2024-01-10,CUST1358,Repeated
+TRIP100823,Mirpur,Dhanmondi,Cancelled,Microbus,4.7,No,11,18.7,769.84,3.2,2,Mobile Payment,13,2024-06-09,CUST1639,New
+TRIP100824,Farmgate,Uttara,Cancelled,Bike,4.1,No,7,17.3,979.46,4.0,1,Mobile Payment,68,2024-02-09,CUST1099,Repeated
+TRIP100825,Mohammadpur,Uttara,Completed,Car,5.0,Yes,8,7.7,469.02,3.1,1,Mobile Payment,6,2024-05-09,CUST1245,Repeated
+TRIP100826,Motijheel,Uttara,Completed,Microbus,3.9,No,5,13.92,859.11,4.5,2,Card,49,2024-02-03,CUST1679,Repeated
+TRIP100827,Mirpur,Mirpur,Completed,CNG,4.7,No,3,11.94,144.43,3.1,2,Cash,16,2024-02-03,CUST1621,Repeated
+TRIP100828,Uttara,Dhanmondi,No-show,Bike,3.8,Yes,12,17.55,106.66,4.9,1,Card,38,2024-06-12,CUST1347,Repeated
+TRIP100829,Banani,Motijheel,Completed,Car,3.6,No,3,7.28,207.25,3.9,3,Cash,34,2024-01-03,CUST1183,Repeated
+TRIP100830,Bashundhara,Farmgate,Completed,CNG,3.8,Yes,18,17.72,340.31,3.3,2,Cash,10,2024-01-15,CUST1320,New
+TRIP100831,Gulshan,Farmgate,Completed,Car,4.9,No,17,12.83,395.3,4.4,1,Cash,66,2024-03-18,CUST1156,Repeated
+TRIP100832,Mirpur,Banani,Completed,CNG,4.9,Yes,4,15.81,676.34,3.2,1,Cash,55,2024-05-07,CUST1170,Repeated
+TRIP100833,Uttara,Gulshan,Completed,Car,4.2,No,16,19.55,491.69,4.7,1,Mobile Payment,80,2024-05-13,CUST1434,New
+TRIP100834,Dhanmondi,Gulshan,Completed,Microbus,3.5,No,15,18.67,73.94,4.7,2,Mobile Payment,52,2024-04-26,CUST1446,Repeated
+TRIP100835,Mohammadpur,Farmgate,No-show,Microbus,4.4,No,7,4.07,328.57,4.1,1,Cash,35,2024-06-23,CUST1317,New
+TRIP100836,Banani,Farmgate,Completed,Microbus,4.3,No,3,20.34,848.84,4.4,1,Mobile Payment,19,2024-03-10,CUST1250,Repeated
+TRIP100837,Gulshan,Gulshan,Completed,Microbus,4.7,Yes,15,5.26,489.5,4.9,2,Cash,24,2024-04-21,CUST1092,Repeated
+TRIP100838,Uttara,Farmgate,No-show,Car,3.2,No,14,1.87,689.25,4.8,3,Cash,20,2024-03-23,CUST1175,New
+TRIP100839,Bashundhara,Farmgate,Completed,Bike,3.3,No,1,21.75,459.84,4.3,3,Card,14,2024-04-04,CUST1228,New
+TRIP100840,Mohammadpur,Banani,Completed,Microbus,4.7,No,5,5.51,798.93,4.4,1,Mobile Payment,89,2024-06-05,CUST1525,New
+TRIP100841,Gulshan,Mohammadpur,Completed,Microbus,3.8,No,13,4.8,314.28,3.0,1,Card,46,2024-02-01,CUST1440,Repeated
+TRIP100842,Mohammadpur,Mirpur,Completed,Bike,4.7,No,11,12.63,176.2,3.5,1,Card,58,2024-03-22,CUST1256,Repeated
+TRIP100843,Dhanmondi,Mirpur,Completed,Bike,4.6,Yes,10,2.36,486.32,3.2,1,Mobile Payment,87,2024-01-25,CUST1411,Repeated
+TRIP100844,Mirpur,Bashundhara,Completed,Bike,3.9,No,18,12.41,397.95,5.0,2,Cash,31,2024-01-08,CUST1588,Repeated
+TRIP100845,Mohammadpur,Banani,Completed,Microbus,4.8,Yes,10,13.49,91.84,4.2,2,Cash,49,2024-06-05,CUST1569,New
+TRIP100846,Mohammadpur,Mirpur,Completed,CNG,3.3,Yes,7,2.46,959.88,3.7,2,Mobile Payment,47,2024-02-02,CUST1157,Repeated
+TRIP100847,Motijheel,Mirpur,Completed,Car,3.5,Yes,6,7.48,677.35,4.0,2,Cash,58,2024-03-14,CUST1342,Repeated
+TRIP100848,Dhanmondi,Banani,Completed,CNG,4.3,No,11,16.51,940.68,4.7,1,Mobile Payment,12,2024-04-14,CUST1211,Repeated
+TRIP100849,Uttara,Banani,Completed,Microbus,5.0,Yes,19,8.93,765.88,3.4,1,Mobile Payment,21,2024-05-23,CUST1536,Repeated
+TRIP100850,Mirpur,Banani,Completed,Bike,3.8,No,2,9.26,613.12,4.6,1,Card,83,2024-04-12,CUST1027,Repeated
+TRIP100851,Motijheel,Mirpur,Completed,Bike,5.0,Yes,5,2.82,488.04,4.7,1,Cash,87,2024-04-28,CUST1686,New
+TRIP100852,Bashundhara,Banani,Completed,CNG,3.8,No,4,23.92,758.06,4.5,2,Cash,6,2024-03-01,CUST1247,New
+TRIP100853,Mirpur,Farmgate,Completed,Microbus,3.2,No,1,3.58,563.09,3.9,1,Cash,35,2024-03-17,CUST1333,Repeated
+TRIP100854,Farmgate,Motijheel,No-show,CNG,3.1,No,2,14.02,158.75,3.1,2,Mobile Payment,28,2024-04-12,CUST1221,New
+TRIP100855,Gulshan,Bashundhara,Completed,Car,3.5,No,2,1.81,277.08,4.0,1,Cash,60,2024-02-19,CUST1674,Repeated
+TRIP100856,Motijheel,Mohammadpur,Completed,Bike,3.1,No,13,20.49,112.76,3.0,1,Cash,85,2024-02-22,CUST1098,Repeated
+TRIP100857,Motijheel,Bashundhara,Completed,Car,3.8,No,13,7.18,242.89,4.0,1,Cash,52,2024-04-28,CUST1619,Repeated
+TRIP100858,Mohammadpur,Uttara,Completed,CNG,3.6,Yes,12,16.14,911.49,4.0,3,Cash,69,2024-03-27,CUST1275,Repeated
+TRIP100859,Bashundhara,Uttara,Completed,Microbus,3.2,No,1,23.62,430.95,4.0,1,Cash,71,2024-03-09,CUST1598,Repeated
+TRIP100860,Motijheel,Dhanmondi,Completed,Car,4.3,Yes,15,13.34,895.86,3.2,1,Mobile Payment,57,2024-05-06,CUST1237,Repeated
+TRIP100861,Mirpur,Bashundhara,Completed,Car,3.8,Yes,1,18.85,154.09,4.8,1,Mobile Payment,5,2024-01-16,CUST1337,New
+TRIP100862,Farmgate,Motijheel,Completed,Car,4.3,No,14,18.76,254.13,4.8,1,Cash,42,2024-04-25,CUST1318,New
+TRIP100863,Gulshan,Mohammadpur,Completed,Microbus,3.2,No,15,19.99,60.53,3.5,3,Cash,71,2024-02-03,CUST1510,Repeated
+TRIP100864,Bashundhara,Mirpur,Cancelled,Bike,3.5,No,12,13.29,390.72,3.5,2,Cash,67,2024-02-03,CUST1386,Repeated
+TRIP100865,Dhanmondi,Gulshan,Completed,Microbus,4.7,No,1,9.16,312.25,3.7,2,Mobile Payment,41,2024-03-26,CUST1479,Repeated
+TRIP100866,Bashundhara,Motijheel,Completed,CNG,3.0,No,13,3.02,383.53,3.6,3,Card,24,2024-01-24,CUST1675,Repeated
+TRIP100867,Dhanmondi,Mirpur,Completed,Microbus,3.6,No,5,14.67,131.14,3.7,1,Mobile Payment,46,2024-02-23,CUST1272,Repeated
+TRIP100868,Dhanmondi,Gulshan,No-show,Car,4.7,Yes,19,17.56,491.73,4.4,1,Card,18,2024-02-29,CUST1682,Repeated
+TRIP100869,Mohammadpur,Farmgate,Completed,Bike,4.2,No,7,10.39,188.64,4.7,3,Mobile Payment,70,2024-05-30,CUST1122,Repeated
+TRIP100870,Dhanmondi,Bashundhara,Completed,Microbus,3.0,Yes,17,11.85,707.22,3.4,1,Cash,37,2024-04-28,CUST1074,New
+TRIP100871,Farmgate,Motijheel,Completed,CNG,3.8,Yes,19,2.03,928.09,3.9,1,Cash,24,2024-04-25,CUST1694,Repeated
+TRIP100872,Mohammadpur,Gulshan,Completed,CNG,4.8,Yes,12,10.94,52.23,3.4,2,Mobile Payment,58,2024-02-01,CUST1210,Repeated
+TRIP100873,Mohammadpur,Banani,Completed,Car,4.4,Yes,6,19.55,554.73,3.0,1,Mobile Payment,39,2024-05-24,CUST1421,Repeated
+TRIP100874,Dhanmondi,Banani,Completed,Microbus,4.6,Yes,5,14.59,191.41,3.5,1,Card,70,2024-03-23,CUST1416,Repeated
+TRIP100875,Gulshan,Uttara,Completed,Bike,4.7,No,15,1.91,790.08,3.2,1,Card,23,2024-03-06,CUST1573,Repeated
+TRIP100876,Mirpur,Mohammadpur,Completed,Car,3.4,No,14,10.82,665.29,4.1,1,Mobile Payment,40,2024-06-20,CUST1585,Repeated
+TRIP100877,Farmgate,Banani,Completed,Bike,3.7,Yes,16,9.47,811.03,4.9,1,Card,9,2024-04-27,CUST1137,New
+TRIP100878,Uttara,Mirpur,Completed,Bike,4.4,No,10,18.47,858.41,3.1,1,Card,53,2024-06-04,CUST1365,New
+TRIP100879,Uttara,Uttara,Completed,Bike,4.4,No,11,17.48,179.43,3.2,2,Cash,47,2024-02-09,CUST1453,Repeated
+TRIP100880,Uttara,Gulshan,No-show,Bike,3.6,Yes,4,8.98,907.52,3.6,2,Mobile Payment,65,2024-05-06,CUST1200,Repeated
+TRIP100881,Farmgate,Motijheel,Cancelled,Car,4.8,No,11,16.94,584.04,3.2,1,Cash,84,2024-05-18,CUST1502,Repeated
+TRIP100882,Bashundhara,Farmgate,No-show,Microbus,3.1,No,7,19.34,142.37,3.0,1,Mobile Payment,77,2024-03-30,CUST1191,Repeated
+TRIP100883,Mirpur,Motijheel,Cancelled,Car,3.5,No,13,10.92,68.12,3.3,2,Cash,48,2024-03-01,CUST1633,New
+TRIP100884,Dhanmondi,Mirpur,Completed,CNG,4.0,No,14,6.74,667.19,4.2,1,Mobile Payment,75,2024-03-27,CUST1239,Repeated
+TRIP100885,Mohammadpur,Dhanmondi,No-show,CNG,3.9,Yes,4,5.19,689.57,3.4,2,Cash,15,2024-01-09,CUST1459,Repeated
+TRIP100886,Bashundhara,Banani,Completed,Car,4.4,Yes,18,22.75,501.09,3.9,1,Card,82,2024-05-05,CUST1380,Repeated
+TRIP100887,Uttara,Mohammadpur,Completed,Car,4.8,No,18,20.77,116.83,3.5,1,Cash,9,2024-02-09,CUST1349,Repeated
+TRIP100888,Dhanmondi,Bashundhara,Completed,CNG,3.7,No,15,10.74,861.86,3.7,2,Cash,12,2024-06-22,CUST1237,Repeated
+TRIP100889,Gulshan,Bashundhara,Completed,Car,4.8,No,19,8.7,547.82,3.9,1,Mobile Payment,20,2024-03-23,CUST1412,Repeated
+TRIP100890,Farmgate,Mohammadpur,Completed,Microbus,3.4,No,18,14.01,857.4,4.0,1,Cash,44,2024-03-13,CUST1243,New
+TRIP100891,Banani,Farmgate,Completed,Car,5.0,No,3,19.46,349.21,3.1,1,Cash,56,2024-04-08,CUST1077,Repeated
+TRIP100892,Banani,Mohammadpur,Cancelled,Car,3.0,Yes,10,14.33,196.08,3.1,3,Cash,17,2024-01-05,CUST1366,Repeated
+TRIP100893,Gulshan,Mohammadpur,Completed,Car,4.7,No,10,2.46,952.11,3.5,2,Mobile Payment,6,2024-02-26,CUST1593,Repeated
+TRIP100894,Uttara,Farmgate,Completed,Car,4.6,Yes,13,20.29,370.48,4.3,1,Mobile Payment,11,2024-05-19,CUST1392,Repeated
+TRIP100895,Uttara,Mohammadpur,Completed,Car,4.6,Yes,13,2.83,222.92,5.0,1,Cash,59,2024-04-21,CUST1054,New
+TRIP100896,Farmgate,Farmgate,Completed,Microbus,3.2,No,15,10.18,408.69,4.2,1,Cash,42,2024-01-11,CUST1580,Repeated
+TRIP100897,Farmgate,Uttara,Completed,Bike,4.6,No,13,6.11,167.0,4.1,1,Cash,28,2024-01-23,CUST1489,Repeated
+TRIP100898,Gulshan,Banani,Completed,CNG,4.4,Yes,15,2.21,126.03,3.8,1,Cash,16,2024-02-02,CUST1427,New
+TRIP100899,Mohammadpur,Motijheel,Cancelled,Microbus,3.4,No,1,6.3,897.93,4.3,2,Cash,49,2024-02-18,CUST1104,Repeated
+TRIP100900,Mirpur,Farmgate,No-show,Car,3.2,No,11,24.69,152.52,3.1,1,Card,33,2024-03-22,CUST1153,Repeated
+TRIP100901,Mirpur,Motijheel,Cancelled,Microbus,3.4,No,3,17.29,619.59,4.3,1,Mobile Payment,33,2024-06-28,CUST1106,New
+TRIP100902,Bashundhara,Gulshan,Completed,CNG,3.6,Yes,8,3.1,128.33,3.3,2,Mobile Payment,73,2024-04-21,CUST1140,Repeated
+TRIP100903,Gulshan,Banani,Completed,CNG,4.2,No,5,5.41,256.89,4.3,2,Mobile Payment,80,2024-03-07,CUST1310,Repeated
+TRIP100904,Banani,Mirpur,Completed,Microbus,3.4,Yes,6,14.73,251.9,4.5,2,Cash,61,2024-01-02,CUST1693,Repeated
+TRIP100905,Dhanmondi,Bashundhara,Completed,Bike,4.1,No,2,7.88,979.11,4.8,2,Card,69,2024-01-28,CUST1660,Repeated
+TRIP100906,Farmgate,Bashundhara,Cancelled,CNG,3.1,Yes,3,15.53,336.1,4.1,2,Cash,14,2024-03-19,CUST1682,Repeated
+TRIP100907,Uttara,Uttara,No-show,Car,4.2,No,10,16.85,142.8,4.8,1,Card,84,2024-02-11,CUST1319,Repeated
+TRIP100908,Gulshan,Banani,Completed,Car,3.9,Yes,12,3.24,247.19,4.5,3,Cash,55,2024-04-29,CUST1342,Repeated
+TRIP100909,Gulshan,Gulshan,Completed,CNG,3.5,No,3,18.78,356.42,3.3,2,Cash,58,2024-03-15,CUST1611,Repeated
+TRIP100910,Mirpur,Gulshan,Completed,Bike,3.2,No,7,8.61,413.95,4.2,1,Cash,69,2024-02-25,CUST1018,New
+TRIP100911,Uttara,Uttara,Completed,CNG,5.0,No,12,3.11,164.97,4.2,2,Cash,76,2024-04-17,CUST1529,New
+TRIP100912,Farmgate,Gulshan,Completed,Microbus,3.9,No,11,18.77,940.03,3.1,1,Card,81,2024-06-07,CUST1382,Repeated
+TRIP100913,Uttara,Farmgate,Completed,Bike,4.8,No,15,17.87,660.97,3.5,3,Mobile Payment,42,2024-04-20,CUST1178,Repeated
+TRIP100914,Banani,Mirpur,Completed,Bike,3.1,No,11,11.22,582.33,3.4,2,Cash,77,2024-01-28,CUST1634,New
+TRIP100915,Bashundhara,Bashundhara,Cancelled,Microbus,3.7,No,19,18.59,477.06,4.9,2,Card,72,2024-06-24,CUST1300,New
+TRIP100916,Uttara,Motijheel,Completed,Microbus,4.2,No,9,14.67,50.81,3.0,4,Card,81,2024-04-09,CUST1361,New
+TRIP100917,Mirpur,Mirpur,Completed,Car,4.4,No,3,20.3,371.04,4.0,1,Card,7,2024-04-15,CUST1216,Repeated
+TRIP100918,Dhanmondi,Gulshan,Completed,CNG,3.1,No,8,8.96,117.58,3.6,2,Cash,18,2024-02-02,CUST1502,Repeated
+TRIP100919,Farmgate,Bashundhara,Completed,Car,3.4,Yes,19,5.84,857.17,4.6,2,Mobile Payment,46,2024-05-19,CUST1475,Repeated
+TRIP100920,Motijheel,Uttara,Cancelled,Microbus,3.4,No,15,22.77,338.79,4.1,1,Mobile Payment,7,2024-06-29,CUST1546,Repeated
+TRIP100921,Motijheel,Bashundhara,Cancelled,Bike,3.9,Yes,13,18.83,392.42,3.1,2,Cash,82,2024-06-21,CUST1354,Repeated
+TRIP100922,Banani,Dhanmondi,Completed,Car,3.4,No,8,23.53,584.21,3.5,1,Cash,49,2024-02-29,CUST1149,Repeated
+TRIP100923,Banani,Banani,Completed,CNG,4.6,Yes,16,13.32,626.91,3.4,1,Mobile Payment,65,2024-06-09,CUST1565,Repeated
+TRIP100924,Uttara,Dhanmondi,Cancelled,Microbus,4.8,Yes,4,20.01,899.12,4.1,1,Card,89,2024-03-20,CUST1664,Repeated
+TRIP100925,Bashundhara,Farmgate,Completed,Car,3.9,No,16,6.16,209.66,4.2,1,Cash,52,2024-06-13,CUST1671,Repeated
+TRIP100926,Mirpur,Mirpur,Completed,Microbus,3.9,No,1,7.92,482.6,3.4,1,Mobile Payment,76,2024-01-22,CUST1528,New
+TRIP100927,Gulshan,Mohammadpur,Completed,Car,3.8,No,17,5.85,147.25,4.7,1,Card,22,2024-06-29,CUST1629,Repeated
+TRIP100928,Mirpur,Farmgate,Completed,Bike,5.0,Yes,2,2.0,447.56,3.1,2,Mobile Payment,56,2024-05-06,CUST1176,New
+TRIP100929,Banani,Uttara,Completed,CNG,3.9,No,11,5.9,726.88,3.1,1,Cash,69,2024-02-05,CUST1349,Repeated
+TRIP100930,Gulshan,Gulshan,Completed,Bike,5.0,Yes,16,20.27,718.16,4.4,1,Mobile Payment,60,2024-02-01,CUST1542,New
+TRIP100931,Banani,Motijheel,Completed,Microbus,4.5,No,3,11.31,391.9,4.1,1,Cash,32,2024-04-05,CUST1331,Repeated
+TRIP100932,Motijheel,Gulshan,Completed,Car,3.7,No,9,11.5,219.45,4.6,3,Card,17,2024-01-28,CUST1025,Repeated
+TRIP100933,Motijheel,Uttara,Completed,CNG,3.5,No,3,2.88,475.7,4.3,4,Card,45,2024-05-12,CUST1642,Repeated
+TRIP100934,Bashundhara,Gulshan,Cancelled,Microbus,3.8,Yes,16,14.15,988.52,3.4,2,Card,46,2024-03-21,CUST1665,New
+TRIP100935,Uttara,Mirpur,Completed,CNG,4.2,No,7,12.89,788.9,4.9,4,Cash,62,2024-05-08,CUST1222,Repeated
+TRIP100936,Mirpur,Motijheel,Completed,Car,4.4,No,5,24.29,171.62,4.1,1,Mobile Payment,21,2024-01-24,CUST1240,Repeated
+TRIP100937,Bashundhara,Mirpur,Completed,Microbus,3.0,Yes,17,12.54,167.6,3.3,1,Mobile Payment,6,2024-06-22,CUST1278,Repeated
+TRIP100938,Gulshan,Uttara,Completed,Microbus,3.1,No,2,16.68,992.96,4.8,3,Cash,21,2024-02-28,CUST1664,Repeated
+TRIP100939,Farmgate,Farmgate,Completed,Car,4.9,No,2,21.6,605.46,4.1,1,Card,77,2024-06-28,CUST1265,New
+TRIP100940,Dhanmondi,Mirpur,Completed,Car,3.8,Yes,2,1.51,726.3,3.7,1,Mobile Payment,56,2024-05-23,CUST1428,Repeated
+TRIP100941,Gulshan,Mirpur,Completed,Car,4.3,No,7,1.32,768.53,4.1,4,Mobile Payment,26,2024-04-11,CUST1518,New
+TRIP100942,Mirpur,Mohammadpur,Completed,Car,4.2,No,17,11.41,116.62,3.1,2,Card,65,2024-05-09,CUST1506,New
+TRIP100943,Dhanmondi,Motijheel,Completed,CNG,4.3,No,17,4.81,218.03,3.7,1,Cash,81,2024-02-25,CUST1090,New
+TRIP100944,Farmgate,Motijheel,Cancelled,CNG,4.2,Yes,10,4.44,465.81,4.5,2,Mobile Payment,63,2024-05-21,CUST1124,Repeated
+TRIP100945,Mirpur,Farmgate,No-show,Car,4.9,Yes,13,16.28,244.26,4.3,2,Mobile Payment,58,2024-05-20,CUST1002,Repeated
+TRIP100946,Gulshan,Mohammadpur,Cancelled,CNG,3.3,No,2,7.1,546.22,3.7,1,Cash,35,2024-03-25,CUST1491,Repeated
+TRIP100947,Uttara,Mohammadpur,No-show,Bike,3.2,No,17,9.17,867.95,3.0,1,Card,76,2024-04-17,CUST1627,Repeated
+TRIP100948,Mohammadpur,Banani,Completed,CNG,4.8,No,7,14.51,413.43,4.2,1,Cash,27,2024-03-12,CUST1679,Repeated
+TRIP100949,Dhanmondi,Banani,Completed,Bike,3.4,Yes,9,3.53,581.0,3.4,1,Card,34,2024-06-08,CUST1396,Repeated
+TRIP100950,Farmgate,Farmgate,Cancelled,CNG,4.4,No,1,3.97,760.22,3.2,1,Mobile Payment,56,2024-05-29,CUST1083,Repeated
+TRIP100951,Banani,Dhanmondi,Completed,Car,3.1,No,10,6.48,183.06,4.4,2,Mobile Payment,7,2024-05-06,CUST1310,Repeated
+TRIP100952,Bashundhara,Mirpur,Cancelled,Bike,4.0,No,12,23.86,902.83,3.3,2,Mobile Payment,74,2024-01-31,CUST1505,Repeated
+TRIP100953,Uttara,Uttara,Completed,CNG,4.9,No,14,19.94,628.74,4.3,1,Mobile Payment,5,2024-02-23,CUST1457,Repeated
+TRIP100954,Motijheel,Banani,Cancelled,Bike,4.9,No,17,5.84,173.16,3.8,3,Cash,61,2024-02-12,CUST1600,New
+TRIP100955,Motijheel,Uttara,Completed,Car,4.9,No,1,23.3,689.47,3.8,3,Card,37,2024-04-10,CUST1549,Repeated
+TRIP100956,Dhanmondi,Gulshan,Cancelled,Microbus,4.5,No,8,7.9,470.54,4.0,2,Card,15,2024-01-04,CUST1269,Repeated
+TRIP100957,Dhanmondi,Mirpur,Completed,CNG,3.6,No,19,2.3,335.87,4.8,2,Card,35,2024-05-21,CUST1218,Repeated
+TRIP100958,Dhanmondi,Bashundhara,Completed,CNG,3.6,No,1,10.54,512.36,4.9,1,Card,78,2024-03-05,CUST1066,New
+TRIP100959,Mirpur,Dhanmondi,Completed,Microbus,3.1,No,2,17.56,637.84,4.2,1,Cash,68,2024-06-18,CUST1549,Repeated
+TRIP100960,Banani,Dhanmondi,Completed,CNG,4.7,No,2,12.69,63.79,3.5,1,Cash,66,2024-03-22,CUST1347,Repeated
+TRIP100961,Uttara,Banani,Completed,Bike,5.0,Yes,10,8.84,307.5,4.6,1,Mobile Payment,13,2024-01-04,CUST1596,New
+TRIP100962,Mirpur,Dhanmondi,Completed,Bike,3.4,No,16,22.17,109.06,4.7,2,Mobile Payment,85,2024-05-05,CUST1473,New
+TRIP100963,Uttara,Farmgate,Cancelled,Microbus,5.0,No,1,18.57,461.52,4.9,1,Cash,88,2024-06-11,CUST1041,Repeated
+TRIP100964,Dhanmondi,Mohammadpur,Completed,Microbus,4.5,No,13,16.88,662.15,4.4,3,Cash,79,2024-02-21,CUST1475,Repeated
+TRIP100965,Motijheel,Banani,Completed,Microbus,3.5,No,4,5.89,973.12,4.5,1,Mobile Payment,54,2024-04-10,CUST1067,New
+TRIP100966,Uttara,Gulshan,Cancelled,Microbus,4.5,Yes,10,20.21,185.88,4.9,2,Cash,87,2024-06-15,CUST1397,Repeated
+TRIP100967,Motijheel,Bashundhara,Completed,CNG,3.9,No,1,21.85,410.71,3.3,1,Cash,68,2024-04-12,CUST1572,Repeated
+TRIP100968,Mohammadpur,Gulshan,Completed,Bike,4.6,No,14,9.8,111.64,3.2,1,Card,89,2024-05-15,CUST1505,Repeated
+TRIP100969,Motijheel,Bashundhara,Completed,CNG,4.8,Yes,3,17.0,70.47,3.1,2,Card,75,2024-02-20,CUST1456,Repeated
+TRIP100970,Mohammadpur,Uttara,Completed,Bike,4.1,No,3,12.35,478.26,4.8,2,Mobile Payment,28,2024-05-03,CUST1157,Repeated
+TRIP100971,Mirpur,Mohammadpur,Cancelled,Bike,4.0,No,17,5.27,787.0,4.8,1,Mobile Payment,26,2024-03-20,CUST1669,New
+TRIP100972,Gulshan,Farmgate,Completed,Bike,4.2,Yes,17,19.99,356.38,4.5,1,Cash,6,2024-05-09,CUST1006,Repeated
+TRIP100973,Motijheel,Gulshan,Completed,Bike,3.3,No,19,10.82,164.54,4.1,2,Card,33,2024-04-22,CUST1626,Repeated
+TRIP100974,Dhanmondi,Gulshan,Completed,Microbus,3.6,No,8,1.74,900.25,3.8,1,Card,80,2024-03-06,CUST1599,Repeated
+TRIP100975,Uttara,Uttara,Completed,Car,3.0,No,13,8.82,756.15,4.6,3,Cash,8,2024-06-04,CUST1115,New
+TRIP100976,Farmgate,Gulshan,Completed,Microbus,3.1,No,2,18.3,628.92,3.2,3,Card,48,2024-02-03,CUST1036,Repeated
+TRIP100977,Gulshan,Dhanmondi,Completed,CNG,3.5,No,9,21.96,962.53,3.7,1,Cash,55,2024-04-18,CUST1286,Repeated
+TRIP100978,Mohammadpur,Uttara,Completed,CNG,3.4,Yes,13,7.74,155.53,4.3,2,Card,44,2024-05-11,CUST1064,Repeated
+TRIP100979,Mohammadpur,Uttara,Completed,CNG,3.8,No,10,2.58,823.84,4.6,1,Mobile Payment,69,2024-03-28,CUST1524,Repeated
+TRIP100980,Farmgate,Motijheel,Cancelled,Bike,3.4,No,15,14.98,913.19,4.5,1,Mobile Payment,75,2024-06-18,CUST1200,Repeated
+TRIP100981,Mohammadpur,Bashundhara,Completed,Bike,3.2,No,3,11.7,817.87,3.3,2,Mobile Payment,24,2024-02-07,CUST1691,Repeated
+TRIP100982,Uttara,Gulshan,Completed,Microbus,4.1,Yes,7,5.42,150.17,4.9,1,Card,62,2024-03-17,CUST1075,Repeated
+TRIP100983,Motijheel,Mohammadpur,Completed,CNG,4.8,No,19,5.24,203.87,4.4,3,Mobile Payment,58,2024-06-10,CUST1470,New
+TRIP100984,Gulshan,Bashundhara,Completed,CNG,4.8,No,5,23.08,368.42,4.7,4,Cash,32,2024-01-17,CUST1614,New
+TRIP100985,Dhanmondi,Uttara,Completed,Bike,5.0,No,12,1.32,291.23,4.2,1,Card,46,2024-01-15,CUST1081,Repeated
+TRIP100986,Uttara,Mohammadpur,Completed,CNG,4.0,Yes,7,7.54,866.77,5.0,1,Card,84,2024-01-31,CUST1693,Repeated
+TRIP100987,Dhanmondi,Bashundhara,Completed,Microbus,4.2,No,11,5.13,623.01,4.7,1,Card,22,2024-01-13,CUST1062,Repeated
+TRIP100988,Uttara,Motijheel,Completed,Car,4.4,Yes,7,6.65,625.49,3.8,1,Mobile Payment,39,2024-03-20,CUST1626,Repeated
+TRIP100989,Gulshan,Mirpur,Completed,Car,3.8,No,9,24.88,502.84,4.0,2,Card,11,2024-04-05,CUST1493,New
+TRIP100990,Uttara,Bashundhara,Cancelled,Car,3.4,No,10,20.67,924.13,3.2,1,Cash,79,2024-06-18,CUST1199,New
+TRIP100991,Dhanmondi,Uttara,Completed,CNG,3.6,Yes,10,16.62,376.8,3.3,2,Cash,81,2024-06-13,CUST1181,Repeated
+TRIP100992,Bashundhara,Mohammadpur,Completed,Bike,3.6,No,19,3.16,173.85,3.3,1,Card,5,2024-02-15,CUST1220,New
+TRIP100993,Mohammadpur,Mohammadpur,Completed,Microbus,3.2,No,1,10.03,440.04,3.9,1,Cash,64,2024-06-06,CUST1664,Repeated
+TRIP100994,Dhanmondi,Uttara,Completed,CNG,3.2,Yes,7,22.02,519.38,4.9,1,Cash,47,2024-02-21,CUST1546,Repeated
+TRIP100995,Uttara,Mohammadpur,Completed,Microbus,3.5,No,8,10.53,506.43,3.1,2,Card,54,2024-03-29,CUST1455,Repeated
+TRIP100996,Motijheel,Mirpur,Completed,Bike,3.8,No,15,9.93,692.42,3.1,1,Mobile Payment,16,2024-04-04,CUST1024,Repeated
+TRIP100997,Farmgate,Motijheel,Cancelled,CNG,4.4,No,3,14.6,881.26,3.8,1,Card,52,2024-06-04,CUST1302,New
+TRIP100998,Bashundhara,Bashundhara,Completed,Bike,3.6,Yes,16,12.1,65.65,4.6,2,Cash,22,2024-06-13,CUST1517,Repeated
+TRIP100999,Bashundhara,Gulshan,Cancelled,Microbus,4.0,No,14,24.13,113.15,4.3,4,Card,66,2024-04-30,CUST1533,Repeated
